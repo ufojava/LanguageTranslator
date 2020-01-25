@@ -10,6 +10,7 @@
 import SwiftUI
 
 
+
 struct Menu: View {
     
     @State private var showFrontImage = true
@@ -45,6 +46,9 @@ struct Menu: View {
             //Menu Icon for All Records
             if showAllDictionary {
                 
+                NavigationLink(destination: ListDictionary()) {
+    
+                
                 HStack {
                         MenuIcons(icon: "folder")
                             .foregroundColor(Color.yellow)
@@ -56,24 +60,35 @@ struct Menu: View {
                     
                 }
                 
-            }//End show All Dictionary
+            }//End of Navigation Link
             
-            
+                }//End of Dictionary
+                
+                
+                
             //Show Custom Search
             if showSearch {
                 
-                HStack {
+                NavigationLink(destination: FilteredDictionary()) {
                     
-                    MenuIcons(icon: "magnifyingglass")
-                        .foregroundColor(Color.purple)
+                    HStack {
+                                       
+                       MenuIcons(icon: "magnifyingglass")
+                           .foregroundColor(Color.purple)
+                       
+                       
+                       //Icon Legend
+                       Text("Search      ")
+                           .foregroundColor(Color.black)
+                           .fontWeight(.bold)
+                       
+                   }//End of HStack
                     
                     
-                    //Icon Legend
-                    Text("Search")
-                        .foregroundColor(Color.black)
-                        .fontWeight(.bold)
                     
-                }
+                }//End of Navigation Link
+                
+               
                 
             }
             
@@ -92,11 +107,12 @@ struct Menu: View {
                 //Main Menu Icon
                 Text("Menu")
                     .foregroundColor(Color.black).fontWeight(.bold)
-                Image(systemName: "list.number")
+        
+                Image(systemName: "circle")
                     .resizable()
                     .scaledToFit()
                     .frame(width: 50, height: 50)
-                    .foregroundColor(Color.black)
+                    .foregroundColor(.init(red: 0.2, green: 10.0, blue: 0.0))
                 
             }
             
@@ -167,7 +183,7 @@ struct MenuIcons: View {
     
             Image(systemName: icon)
                 .resizable()
-                .frame(width:35, height: 35)
+                .frame(width:40, height: 40)
                 .shadow(color: .black, radius: 0.3, x: 1, y: 1)
         
             
@@ -176,6 +192,7 @@ struct MenuIcons: View {
     }//End of Body View
     
 }//End os Struct
+
 
 
 

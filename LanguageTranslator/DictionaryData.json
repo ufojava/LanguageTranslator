@@ -1,1387 +1,1387 @@
 [
    {
       "﻿id": 1,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Cherry",
       "Urhobo": "Utièagadava."
    },
    {
       "﻿id": 2,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Watermelon",
       "Urhobo": "Etoame."
    },
    {
       "﻿id": 3,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Òniòn",
       "Urhobo": "Utita."
    },
    {
       "﻿id": 4,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Banana",
       "Urhobo": "Odibo."
    },
    {
       "﻿id": 5,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Lime",
       "Urhobo": "Utièafèrè."
    },
    {
       "﻿id": 6,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Orange",
       "Urhobo": "Utièn."
    },
    {
       "﻿id": 7,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Mango",
       "Urhobo": "Imagoro."
    },
    {
       "﻿id": 8,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Pineapple",
       "Urhobo": "Inanaja."
    },
    {
       "﻿id": 9,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "PawPaw",
       "Urhobo": "Eto."
    },
    {
       "﻿id": 10,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Coconut",
       "Urhobo": "Ukokodia."
    },
    {
       "﻿id": 11,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Okro",
       "Urhobo": "Ishavwo."
    },
    {
       "﻿id": 12,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Corn",
       "Urhobo": "Òka."
    },
    {
       "﻿id": 13,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Pepper",
       "Urhobo": "Irhibo."
    },
    {
       "﻿id": 14,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Fresh pepper",
       "Urhobo": "Irhibo èkpro."
    },
    {
       "﻿id": 15,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Yam",
       "Urhobo": "Ònè."
    },
    {
       "﻿id": 16,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Pumpkin",
       "Urhobo": "Umèhè."
    },
    {
       "﻿id": 17,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Beans",
       "Urhobo": "Ireh."
    },
    {
       "﻿id": 18,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Red",
       "Urhobo": "beans Esha"
    },
    {
       "﻿id": 19,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Banger",
       "Urhobo": "Edi."
    },
    {
       "﻿id": 20,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Rice",
       "Urhobo": "Irosu."
    },
    {
       "﻿id": 21,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Pear",
       "Urhobo": "Ipiè."
    },
    {
       "﻿id": 22,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Tomatoes",
       "Urhobo": "Itomatosi."
    },
    {
       "﻿id": 23,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Sugarcane",
       "Urhobo": "Uhwerhe."
    },
    {
       "﻿id": 24,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Plantain",
       "Urhobo": "Òrhè."
    },
    {
       "﻿id": 25,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Cola",
       "Urhobo": "Èvweh."
    },
    {
       "﻿id": 26,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Plantain",
       "Urhobo": "Òrhè."
    },
    {
       "﻿id": 27,
-      "Category": "fruits",
+      "Category": "Fruits",
       "English": "Cola",
       "Urhobo": "Èvweh."
    },
    {
       "﻿id": 28,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Sunday",
       "Urhobo": "Ẹdijana ode."
    },
    {
       "﻿id": 29,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Bible ",
       "Urhobo": "Ọbe ọfuanfon."
    },
    {
       "﻿id": 30,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Bibles",
       "Urhobo": "Ẹbe ọfuanfon."
    },
    {
       "﻿id": 31,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Chapter",
       "Urhobo": "Uyovwin r'ọye."
    },
    {
       "﻿id": 32,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Verse",
       "Urhobo": "Owọ r'ọye."
    },
    {
       "﻿id": 33,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Verses",
       "Urhobo": "Awọ rọye."
    },
    {
       "﻿id": 34,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Hymn",
       "Urhobo": "Ọbe r'ine."
    },
    {
       "﻿id": 35,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Hymns",
       "Urhobo": "Ẹbe r'ine."
    },
    {
       "﻿id": 36,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Pastor",
       "Urhobo": "Orherẹ r'Oghene."
    },
    {
       "﻿id": 37,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Pastors",
       "Urhobo": "Irherẹ r'Oghene."
    },
    {
       "﻿id": 38,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Choir",
       "Urhobo": "Ọbuine."
    },
    {
       "﻿id": 39,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Choirs",
       "Urhobo": "Ibuine."
    },
    {
       "﻿id": 40,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Song",
       "Urhobo": "Une."
    },
    {
       "﻿id": 41,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Songs",
       "Urhobo": "Ine."
    },
    {
       "﻿id": 42,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Band",
       "Urhobo": "Ukoko."
    },
    {
       "﻿id": 43,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Bands",
       "Urhobo": "Ikoko."
    },
    {
       "﻿id": 44,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Evangelist",
       "Urhobo": "Oghwoghiyẹresiri."
    },
    {
       "﻿id": 45,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Evangelists",
       "Urhobo": "Ighwoghwiyẹresiri."
    },
    {
       "﻿id": 46,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Prophet",
       "Urhobo": "Ọmraro."
    },
    {
       "﻿id": 47,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Prophets",
       "Urhobo": "Emraro."
    },
    {
       "﻿id": 48,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Preacher",
       "Urhobo": "Oghwoghwota r'Oghene."
    },
    {
       "﻿id": 49,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Preachers",
       "Urhobo": "Ighwoghwota r'Oghene."
    },
    {
       "﻿id": 50,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Alter",
       "Urhobo": "Ẹshẹ."
    },
    {
       "﻿id": 51,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Horn speaker",
       "Urhobo": "Agboro."
    },
    {
       "﻿id": 52,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Band     ",
       "Urhobo": "Igede."
    },
    {
       "﻿id": 53,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Fan     ",
       "Urhobo": "Udjuọdja."
    },
    {
       "﻿id": 54,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "A.C ",
       "Urhobo": "Ekpeti r'udjiroma."
    },
    {
       "﻿id": 55,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Chair     ",
       "Urhobo": "Agbara."
    },
    {
       "﻿id": 56,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Table ",
       "Urhobo": "Imẹjẹ."
    },
    {
       "﻿id": 57,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Offering     ",
       "Urhobo": "Okẹ."
    },
    {
       "﻿id": 58,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Launching  ",
       "Urhobo": "Obọ evwio-vwiudo."
    },
    {
       "﻿id": 59,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Person      ",
       "Urhobo": "Ohwo."
    },
    {
       "﻿id": 60,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "People       ",
       "Urhobo": "Ihwo."
    },
    {
       "﻿id": 61,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Elder          ",
       "Urhobo": "Ọkpako."
    },
    {
       "﻿id": 62,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Elders       ",
       "Urhobo": "Ekpako."
    },
    {
       "﻿id": 63,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Youth         ",
       "Urhobo": "Eghene."
    },
    {
       "﻿id": 64,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Youths       ",
       "Urhobo": "Ighene."
    },
    {
       "﻿id": 65,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Woman     ",
       "Urhobo": "Aye."
    },
    {
       "﻿id": 66,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Women      ",
       "Urhobo": "Eya."
    },
    {
       "﻿id": 67,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Child          ",
       "Urhobo": "Ọmọ."
    },
    {
       "﻿id": 68,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Children    ",
       "Urhobo": "Emọ."
    },
    {
       "﻿id": 69,
-      "Category": "religion",
+      "Category": "Religion",
       "English": "Bell            ",
       "Urhobo": "Agogo."
    },
    {
       "﻿id": 70,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£5 ",
       "Urhobo": "Kpaivè gbè ishenihwe."
    },
    {
       "﻿id": 71,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£10 ",
       "Urhobo": "Kpaiyorin."
    },
    {
       "﻿id": 72,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£20 ",
       "Urhobo": "Kpaihwe."
    },
    {
       "﻿id": 73,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£30 ",
       "Urhobo": "Kpaihworin."
    },
    {
       "﻿id": 74,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£40 ",
       "Urhobo": "Kpòuje."
    },
    {
       "﻿id": 75,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£50 ",
       "Urhobo": "Kpòuje gbiyorin."
    },
    {
       "﻿id": 76,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£100 ",
       "Urhobo": "Ubroesiso."
    },
    {
       "﻿id": 77,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£200 ",
       "Urhobo": "EsisoÒvo"
    },
    {
       "﻿id": 78,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£300 ",
       "Urhobo": "EsisoÒvo gb'ubro."
    },
    {
       "﻿id": 79,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£400 ",
       "Urhobo": "Esiso ivè."
    },
    {
       "﻿id": 80,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£500 ",
       "Urhobo": "Esiso ivè gb'ubro."
    },
    {
       "﻿id": 81,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£600 ",
       "Urhobo": "Esiso Erha."
    },
    {
       "﻿id": 82,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£700 ",
       "Urhobo": "Esiso erha gb'ubro."
    },
    {
       "﻿id": 83,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£800 ",
       "Urhobo": "Esiso Ène."
    },
    {
       "﻿id": 84,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£900 ",
       "Urhobo": "Esiso Ène gb'ubro."
    },
    {
       "﻿id": 85,
-      "Category": "currency",
+      "Category": "Currency",
       "English": "£1,000 ",
       "Urhobo": "Esiso Iyorin."
    },
    {
       "﻿id": 86,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Teacher.",
       "Urhobo": "Oyono     "
    },
    {
       "﻿id": 87,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Native doctor.",
       "Urhobo": "Ọbo          "
    },
    {
       "﻿id": 88,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Med. Doctor.",
       "Urhobo": "Ọbo r'oyibo"
    },
    {
       "﻿id": 89,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Priest.",
       "Urhobo": "Orherẹn    "
    },
    {
       "﻿id": 90,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Pastor",
       "Urhobo": "Orherẹn"
    },
    {
       "﻿id": 91,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Trader.",
       "Urhobo": "Ọneki        "
    },
    {
       "﻿id": 92,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Buyer.",
       "Urhobo": "Ọdemu       "
    },
    {
       "﻿id": 93,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Judge.",
       "Urhobo": "Obrorhiẹn   "
    },
    {
       "﻿id": 94,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Lawyer.",
       "Urhobo": "Oguẹdjọ    "
    },
    {
       "﻿id": 95,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Driver.",
       "Urhobo": "Ọguokọ     "
    },
    {
       "﻿id": 96,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Car driver.",
       "Urhobo": "Ọguokọ r'otọr"
    },
    {
       "﻿id": 98,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Soldier.",
       "Urhobo": "Ọgbofovwin "
    },
    {
       "﻿id": 99,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Fisherman.",
       "Urhobo": "Ohwi-yerin   "
    },
    {
       "﻿id": 100,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Robber tapper.",
       "Urhobo": "Ọsuiroba "
    },
    {
       "﻿id": 101,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Carpenter.",
       "Urhobo": "Ọkarirhe  "
    },
    {
       "﻿id": 102,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Tailor.",
       "Urhobo": "Okemwa   "
    },
    {
       "﻿id": 103,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Hair dresser.",
       "Urhobo": "Oruẹto     "
    },
    {
       "﻿id": 104,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Builder.",
       "Urhobo": "Ọbuwenvwin"
    },
    {
       "﻿id": 105,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Singer.",
       "Urhobo": "Ọbuine        "
    },
    {
       "﻿id": 106,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Clerk.",
       "Urhobo": "Osiẹbe         "
    },
    {
       "﻿id": 107,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Footballer.",
       "Urhobo": "Ọfibọrọ       "
    },
    {
       "﻿id": 108,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Student.",
       "Urhobo": "Oyonẹbe     "
    },
    {
       "﻿id": 109,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Pupils",
       "Urhobo": "Iyono-ẹbe r'imitete"
    },
    {
       "﻿id": 110,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Wrestler.",
       "Urhobo": "Omuabọ    "
    },
    {
       "﻿id": 111,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Boxer.",
       "Urhobo": "Odjibi         "
    },
    {
       "﻿id": 112,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Farmer.",
       "Urhobo": "Ọghwẹrẹ     "
    },
    {
       "﻿id": 113,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Police.",
       "Urhobo": "Ọnọkpa       "
    },
    {
       "﻿id": 114,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Hair barber.",
       "Urhobo": "Obrẹto         "
    },
    {
       "﻿id": 115,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Messenger.",
       "Urhobo": "Ọyinkọ         "
    },
    {
       "﻿id": 116,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Ọrator.",
       "Urhobo": "Ọtota          "
    },
    {
       "﻿id": 117,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Leader.",
       "Urhobo": "Osun          "
    },
    {
       "﻿id": 118,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Arch -bishop.",
       "Urhobo": "Osusunokwuyovwigbe"
    },
    {
       "﻿id": 119,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Wood seller.",
       "Urhobo": "Oshireshẹ "
    },
    {
       "﻿id": 120,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Warder",
       "Urhobo": "Ohwo rọ vwẹro t'uwodin"
    },
    {
       "﻿id": 121,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Evangelist/Preacher",
       "Urhobo": "Oghwoghwi yẹresiri"
    },
    {
       "﻿id": 122,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Town announcer.",
       "Urhobo": "Oghwoghwota "
    },
    {
       "﻿id": 123,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Politician.",
       "Urhobo": "Ohwo rọ dj'oseghe r'usuo"
    },
    {
       "﻿id": 124,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Criminal.",
       "Urhobo": "Oji      "
    },
    {
       "﻿id": 125,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Harlot.",
       "Urhobo": "Igberadja "
    },
    {
       "﻿id": 126,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Hunter.",
       "Urhobo": "Ọbẹribefi   "
    },
    {
       "﻿id": 127,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Hawker.",
       "Urhobo": "Oghoremu "
    },
    {
       "﻿id": 128,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Banga tapper.",
       "Urhobo": "Ọbẹrokpa"
    },
    {
       "﻿id": 129,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Watch night.",
       "Urhobo": "Ọdẹrotọr "
    },
    {
       "﻿id": 130,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Herdsmen.",
       "Urhobo": "Isuimenu "
    },
    {
       "﻿id": 131,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Liar.",
       "Urhobo": "Oguefia   "
    },
    {
       "﻿id": 132,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Scammer.",
       "Urhobo": "Ophiwayo "
    },
    {
       "﻿id": 133,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Prophet.",
       "Urhobo": "Ọmraro    "
    },
    {
       "﻿id": 134,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Banker.",
       "Urhobo": "Ọsẹror'igho"
    },
    {
       "﻿id": 135,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Accountant.",
       "Urhobo": "Okerigho "
    },
    {
       "﻿id": 136,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Nurse.",
       "Urhobo": "Inọsi        "
    },
    {
       "﻿id": 137,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Dancer.",
       "Urhobo": "Ogbeha    "
    },
    {
       "﻿id": 138,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Mechanic.",
       "Urhobo": "Ọrhuẹr'okọ-otọr"
    },
    {
       "﻿id": 139,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Electrician.",
       "Urhobo": "Ọrhuẹr'urhukpẹ"
    },
    {
       "﻿id": 140,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Ritualist.",
       "Urhobo": "Ogbu  "
    },
    {
       "﻿id": 141,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Killers.",
       "Urhobo": "Igbunegbu "
    },
    {
       "﻿id": 142,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Healer.",
       "Urhobo": "Osivw'ihwo "
    },
    {
       "﻿id": 143,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Designer.",
       "Urhobo": "Ọwena        "
    },
    {
       "﻿id": 144,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Warrior.",
       "Urhobo": "Ọgbofovwin "
    },
    {
       "﻿id": 145,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Backbiter.",
       "Urhobo": "Oguiguegun "
    },
    {
       "﻿id": 146,
-      "Category": "profession",
+      "Category": "Profession",
       "English": "Journalist",
       "Urhobo": "Ọghwiyẹrẹ "
    },
    {
       "﻿id": 147,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Chest",
       "Urhobo": " Udu"
    },
    {
       "﻿id": 148,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Breast",
       "Urhobo": " Ivie"
    },
    {
       "﻿id": 149,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Heart",
       "Urhobo": " Ubiudu"
    },
    {
       "﻿id": 150,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Arms",
       "Urhobo": " Ugbobọ"
    },
    {
       "﻿id": 151,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Arm pit",
       "Urhobo": " Avianvwe"
    },
    {
       "﻿id": 152,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Hands",
       "Urhobo": " Abọ (Singular Obọ)"
    },
    {
       "﻿id": 153,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Fingers",
       "Urhobo": " Irhiabọ"
    },
    {
       "﻿id": 154,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Finger nails",
       "Urhobo": " Ififabọ"
    },
    {
       "﻿id": 155,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Palms",
       "Urhobo": " Ehẹrabọ"
    },
    {
       "﻿id": 156,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Stomach",
       "Urhobo": " Egede"
    },
    {
       "﻿id": 157,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Back",
       "Urhobo": " Ugbuko"
    },
    {
       "﻿id": 158,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Spine",
       "Urhobo": " Ufi r'ugbuko"
    },
    {
       "﻿id": 159,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Ribs",
       "Urhobo": " Ẹfẹn, Ibiedada"
    },
    {
       "﻿id": 160,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Waist",
       "Urhobo": "Ehu"
    },
    {
       "﻿id": 161,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Hip",
       "Urhobo": " Ogeh"
    },
    {
       "﻿id": 162,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Groin",
       "Urhobo": " Agada"
    },
    {
       "﻿id": 163,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Buttocks",
       "Urhobo": " Ikebe"
    },
    {
       "﻿id": 164,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Anus",
       "Urhobo": " Unusọn"
    },
    {
       "﻿id": 165,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Legs",
       "Urhobo": " Awọ"
    },
    {
       "﻿id": 166,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Laps",
       "Urhobo": " Ekpoghawọ"
    },
    {
       "﻿id": 167,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Knee cap",
       "Urhobo": " Owuro"
    },
    {
       "﻿id": 168,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Knee",
       "Urhobo": " Ugbon"
    },
    {
       "﻿id": 169,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Toes",
       "Urhobo": " Irhiawọ"
    },
    {
       "﻿id": 170,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Muscles",
       "Urhobo": " Irhiẹn"
    },
    {
       "﻿id": 171,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Breath",
       "Urhobo": " Ẹwẹn"
    },
    {
       "﻿id": 172,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Tears",
       "Urhobo": " Amiovie"
    },
    {
       "﻿id": 173,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Saliva",
       "Urhobo": " Enya"
    },
    {
       "﻿id": 174,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Faeces",
       "Urhobo": " Isọn"
    },
    {
       "﻿id": 175,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Hair",
       "Urhobo": " Ẹto"
    },
    {
       "﻿id": 176,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Head",
       "Urhobo": " Uyovwi"
    },
    {
       "﻿id": 177,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Skull",
       "Urhobo": " Ekpehre"
    },
    {
       "﻿id": 178,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Brains",
       "Urhobo": " Afọrhe"
    },
    {
       "﻿id": 179,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Scalp",
       "Urhobo": " Ekrukuyovwi"
    },
    {
       "﻿id": 180,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Fore head",
       "Urhobo": " Ekorhi, Arhare"
    },
    {
       "﻿id": 181,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Bridge",
       "Urhobo": " Ugbuwe"
    },
    {
       "﻿id": 182,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Eyes",
       "Urhobo": " Ibiaro"
    },
    {
       "﻿id": 183,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Ears",
       "Urhobo": " Erhọ"
    },
    {
       "﻿id": 184,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Nose",
       "Urhobo": " Uwe"
    },
    {
       "﻿id": 185,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Mouth",
       "Urhobo": " Ugbunu"
    },
    {
       "﻿id": 186,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Lips",
       "Urhobo": " Ẹbẹre r'ugbunu"
    },
    {
       "﻿id": 187,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Tongue",
       "Urhobo": " Ẹrẹvwe"
    },
    {
       "﻿id": 188,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Teeth",
       "Urhobo": " Ako"
    },
    {
       "﻿id": 189,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Cheeks",
       "Urhobo": " Ibiegban, Ohwa"
    },
    {
       "﻿id": 190,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Jaw",
       "Urhobo": " Idjohwa"
    },
    {
       "﻿id": 191,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Chin",
       "Urhobo": " Agbotọ"
    },
    {
       "﻿id": 192,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Face",
       "Urhobo": " Opharo"
    },
    {
       "﻿id": 193,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Neck",
       "Urhobo": " Ohọre"
    },
    {
       "﻿id": 194,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Throat",
       "Urhobo": " Upho"
    },
    {
       "﻿id": 195,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Adams Apple",
       "Urhobo": " Ubiupho"
    },
    {
       "﻿id": 196,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Shoulders",
       "Urhobo": " Igabọ"
    },
    {
       "﻿id": 197,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Abdomen",
       "Urhobo": " Ugava, Evu"
    },
    {
       "﻿id": 198,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Umbilicus (Navel)",
       "Urhobo": " Uhohi"
    },
    {
       "﻿id": 199,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Intestines",
       "Urhobo": " Ivu"
    },
    {
       "﻿id": 200,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Livers",
       "Urhobo": " Irhue"
    },
    {
       "﻿id": 201,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Lungs",
       "Urhobo": " Irhue r'phophogho"
    },
    {
       "﻿id": 202,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Kidneys",
       "Urhobo": " Ibiehu"
    },
    {
       "﻿id": 203,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Blood",
       "Urhobo": " Ọbara"
    },
    {
       "﻿id": 204,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Womb",
       "Urhobo": " Uwevwi r'ọmọ"
    },
    {
       "﻿id": 205,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Bones",
       "Urhobo": " Ibeku"
    },
    {
       "﻿id": 206,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Scrutum",
       "Urhobo": " Ivwrite"
    },
    {
       "﻿id": 207,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Testicles",
       "Urhobo": " Ibrivwrite"
    },
    {
       "﻿id": 208,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Penis",
       "Urhobo": " Oshọ"
    },
    {
       "﻿id": 209,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Vagina",
       "Urhobo": " Ohoro"
    },
    {
       "﻿id": 210,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Vulva",
       "Urhobo": " Obotọ r'ohoro"
    },
    {
       "﻿id": 211,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Sperm",
       "Urhobo": " Amioma"
    },
    {
       "﻿id": 212,
-      "Category": "annatomy",
+      "Category": "Annatomy",
       "English": " Pubic hair",
       "Urhobo": " Eto r'oshọ/Eto r'Ohoro"
    },
    {
       "﻿id": 213,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Love.",
       "Urhobo": "Ẹguọnọ."
    },
    {
       "﻿id": 214,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "I love you",
       "Urhobo": "Mi vwo ẹguọnọ wẹ."
    },
    {
       "﻿id": 215,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Fiancé/fiancée",
       "Urhobo": "Ọsen."
    },
    {
       "﻿id": 216,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Marriage",
       "Urhobo": "Orọvwe."
    },
    {
       "﻿id": 217,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "My wife",
       "Urhobo": "Aye mẹ."
    },
    {
       "﻿id": 218,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Beauty",
       "Urhobo": "Erhuvwu."
    },
    {
       "﻿id": 219,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "You are beautiful.",
       "Urhobo": "Wo vwo erhuvwu."
    },
    {
       "﻿id": 220,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Will you marry me?",
       "Urhobo": "Wọ reyo vwẹ? "
    },
    {
       "﻿id": 221,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "My husband.",
       "Urhobo": "Ọshare mẹ."
    },
    {
       "﻿id": 222,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Sex",
       "Urhobo": "Ehware.  "
    },
    {
       "﻿id": 223,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Have sex",
       "Urhobo": "Bru ehware. "
    },
    {
       "﻿id": 224,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Girl",
       "Urhobo": "Ọmọtẹ. "
    },
    {
       "﻿id": 225,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Virgin girl",
       "Urhobo": "Ọmọtubẹ."
    },
    {
       "﻿id": 226,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Prostitute ",
       "Urhobo": "Igberadja."
    },
    {
       "﻿id": 227,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Devoiced woman.",
       "Urhobo": "Ọmọtogbẹ."
    },
    {
       "﻿id": 228,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Introduction",
       "Urhobo": "Omedje."
    },
    {
       "﻿id": 229,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Marriage ceremony",
       "Urhobo": "Emuebro."
    },
    {
       "﻿id": 230,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Bride prize",
       "Urhobo": "Igho emuebro."
    },
    {
       "﻿id": 231,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "Bride",
       "Urhobo": "Ọpha. "
    },
    {
       "﻿id": 232,
-      "Category": "relationship",
+      "Category": "Relationship",
       "English": "My in-law.",
       "Urhobo": "Ọgọ mẹ"
    },
@@ -1669,601 +1669,601 @@
    },
    {
       "﻿id": 280,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "One",
       "Urhobo": "Ọvo."
    },
    {
       "﻿id": 281,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Two",
       "Urhobo": "Ivẹ."
    },
    {
       "﻿id": 282,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Three",
       "Urhobo": "Erha."
    },
    {
       "﻿id": 283,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Four",
       "Urhobo": "Ẹne."
    },
    {
       "﻿id": 284,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Five",
       "Urhobo": "Iyorin."
    },
    {
       "﻿id": 285,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Six",
       "Urhobo": " Esan."
    },
    {
       "﻿id": 286,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seven",
       "Urhobo": "Ighwrẹn."
    },
    {
       "﻿id": 287,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eight",
       "Urhobo": "Ẹrere."
    },
    {
       "﻿id": 288,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Nine",
       "Urhobo": "Irhirin."
    },
    {
       "﻿id": 289,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ten",
       "Urhobo": "Ihwe."
    },
    {
       "﻿id": 290,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eleven",
       "Urhobo": "Uhwọvo."
    },
    {
       "﻿id": 291,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twelve",
       "Urhobo": "Ihwe gb'ivẹ."
    },
    {
       "﻿id": 292,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirteen",
       "Urhobo": "Ihwe gb'erha."
    },
    {
       "﻿id": 293,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fourteen",
       "Urhobo": "Ihwe gb'ẹne."
    },
    {
       "﻿id": 294,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifteen",
       "Urhobo": "Ihwiorin."
    },
    {
       "﻿id": 295,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixteen",
       "Urhobo": "Ihwe gb'esan"
    },
    {
       "﻿id": 296,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventeen",
       "Urhobo": "Ihwe gb'ighwrẹn"
    },
    {
       "﻿id": 297,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighteen",
       "Urhobo": "Ihwe gb'ẹreren."
    },
    {
       "﻿id": 298,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Nineteen",
       "Urhobo": "Ihwe gb'irhirin."
    },
    {
       "﻿id": 299,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty",
       "Urhobo": "Uje."
    },
    {
       "﻿id": 300,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-one",
       "Urhobo": "Uje gb'ọvo."
    },
    {
       "﻿id": 301,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-two",
       "Urhobo": "Uje gb'ivẹ."
    },
    {
       "﻿id": 302,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-three",
       "Urhobo": "Uje gb'erha."
    },
    {
       "﻿id": 303,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-four",
       "Urhobo": "Uje gb'ẹne."
    },
    {
       "﻿id": 304,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "̀Twenty-five",
       "Urhobo": "Uje gb'iyorin."
    },
    {
       "﻿id": 305,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-six",
       "Urhobo": "Uje gb'esan."
    },
    {
       "﻿id": 306,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-seven",
       "Urhobo": "Uje gb'ighwrẹn."
    },
    {
       "﻿id": 307,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-eight",
       "Urhobo": "Uje gb'ẹrere."
    },
    {
       "﻿id": 308,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Twenty-nine",
       "Urhobo": "Uje gb'irhirin."
    },
    {
       "﻿id": 309,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty",
       "Urhobo": "Ọgban."
    },
    {
       "﻿id": 310,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-one",
       "Urhobo": "Ọgban gb'ọvo."
    },
    {
       "﻿id": 311,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-two",
       "Urhobo": "Ọgban gb'ivẹ."
    },
    {
       "﻿id": 312,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-three",
       "Urhobo": "Ọgban gb'erha."
    },
    {
       "﻿id": 313,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-four",
       "Urhobo": "Ọgban gb'ẹne."
    },
    {
       "﻿id": 314,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-five",
       "Urhobo": "Ọgban gb'iyorin."
    },
    {
       "﻿id": 315,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-six",
       "Urhobo": "Ọgban gb'esan."
    },
    {
       "﻿id": 316,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-seven",
       "Urhobo": "Ọgban gb'ighwrẹn."
    },
    {
       "﻿id": 317,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-eight",
       "Urhobo": "Ọgban gb'ẹrere."
    },
    {
       "﻿id": 318,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Thirty-nine",
       "Urhobo": "Ọgban gb'irhirin."
    },
    {
       "﻿id": 319,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty",
       "Urhobo": "Ujuvẹ."
    },
    {
       "﻿id": 320,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-one",
       "Urhobo": "Ujuvẹ gb'ọvo."
    },
    {
       "﻿id": 321,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-two",
       "Urhobo": "Ujuvẹ gb'ivẹ."
    },
    {
       "﻿id": 322,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-three",
       "Urhobo": "Ujuvẹ gb'erha."
    },
    {
       "﻿id": 323,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-four",
       "Urhobo": "Ujuvẹ gb'ẹne."
    },
    {
       "﻿id": 324,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-five",
       "Urhobo": "Ujuvẹ gb'iyorin."
    },
    {
       "﻿id": 325,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-six",
       "Urhobo": "Ujuvẹ gb'esan."
    },
    {
       "﻿id": 326,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-seven",
       "Urhobo": "Ujuvẹ gb'ighwrẹn."
    },
    {
       "﻿id": 327,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-eight",
       "Urhobo": "Ujuvẹ gb'ẹrere."
    },
    {
       "﻿id": 328,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Forty-nine",
       "Urhobo": "Ujuvẹ gb'irhirin."
    },
    {
       "﻿id": 329,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty",
       "Urhobo": "Ujuvẹ gb'ihwe."
    },
    {
       "﻿id": 330,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-one",
       "Urhobo": "Ujuvẹ gb'ihwe gb'ọvo."
    },
    {
       "﻿id": 331,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-two",
       "Urhobo": "Ujuvẹ gb'ihwe gb'ivẹ."
    },
    {
       "﻿id": 332,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-three",
       "Urhobo": "Ujuvẹ gb'ihwe gb'erha."
    },
    {
       "﻿id": 333,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-four",
       "Urhobo": "Ujuvẹ gb'ihwe gb'ẹne."
    },
    {
       "﻿id": 334,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-five",
       "Urhobo": "Ujuvẹ gb'ihwe gb'iyorin."
    },
    {
       "﻿id": 335,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-six",
       "Urhobo": "Ujuvẹ gb'ihwe gb'esan."
    },
    {
       "﻿id": 336,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-seven",
       "Urhobo": "Ujuvẹ gb'ihwe gb'ighwrẹn."
    },
    {
       "﻿id": 337,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-eight",
       "Urhobo": "Ujuvẹ gb'ihwe gb'ẹrere."
    },
    {
       "﻿id": 338,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Fifty-nine",
       "Urhobo": "Ujuvẹ gb'ihwe gb'irhirin."
    },
    {
       "﻿id": 339,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty",
       "Urhobo": "Ujorha."
    },
    {
       "﻿id": 340,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-one",
       "Urhobo": "Ujorha gb'ọvo."
    },
    {
       "﻿id": 341,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-two",
       "Urhobo": "Ujorha gb'ivẹ."
    },
    {
       "﻿id": 342,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-three",
       "Urhobo": "Ujorha gb'erha."
    },
    {
       "﻿id": 343,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-four",
       "Urhobo": "Ujorha gb'ẹne."
    },
    {
       "﻿id": 344,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-five",
       "Urhobo": "Ujorha gb'iyorin."
    },
    {
       "﻿id": 345,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-six",
       "Urhobo": "Ujorha gb'esan."
    },
    {
       "﻿id": 346,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-seven",
       "Urhobo": "Ujorha gb'ighwrẹn."
    },
    {
       "﻿id": 347,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-eight",
       "Urhobo": "Ujorha gb'ẹrere."
    },
    {
       "﻿id": 348,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Sixty-nine",
       "Urhobo": "Ujorha gb'irhirin."
    },
    {
       "﻿id": 349,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy",
       "Urhobo": "Ujorha gb'ihwe."
    },
    {
       "﻿id": 350,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-one",
       "Urhobo": "Ujorha gb'ihwe gb'ọvo."
    },
    {
       "﻿id": 351,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-two",
       "Urhobo": "Ujorha gb'ihwe gb'ivẹ."
    },
    {
       "﻿id": 352,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-three",
       "Urhobo": "Ujorha gb'ihwe gb'erha."
    },
    {
       "﻿id": 353,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-four",
       "Urhobo": "Ujorha gb'ihwe gb'ẹne."
    },
    {
       "﻿id": 354,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-five",
       "Urhobo": "Ujorha gb'ihwe gb'iyorin."
    },
    {
       "﻿id": 355,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-six",
       "Urhobo": "Ujorha gb'ihwe gb'esan."
    },
    {
       "﻿id": 356,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-seven",
       "Urhobo": "Ujorha gb'ihwe gb'ighwrẹn"
    },
    {
       "﻿id": 357,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-eight",
       "Urhobo": "Ujorha gb'ihwe gb'ẹrere."
    },
    {
       "﻿id": 358,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Seventy-nine",
       "Urhobo": "Ujorha gb'ihwe gb'irhirin."
    },
    {
       "﻿id": 359,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty",
       "Urhobo": "Ujọne."
    },
    {
       "﻿id": 360,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-one",
       "Urhobo": "Ujọne gb'ọvo."
    },
    {
       "﻿id": 361,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-two",
       "Urhobo": "Ujọne gb'ivẹ."
    },
    {
       "﻿id": 362,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-three",
       "Urhobo": "Ujọne gb'erha."
    },
    {
       "﻿id": 363,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-four",
       "Urhobo": "Ujọne gb'ẹne."
    },
    {
       "﻿id": 364,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-five",
       "Urhobo": "Ujọne gb'iyorin."
    },
    {
       "﻿id": 365,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-six",
       "Urhobo": "Ujọne gb'esan."
    },
    {
       "﻿id": 366,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-seven",
       "Urhobo": "Ujọne gb'ighwrẹn."
    },
    {
       "﻿id": 367,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-eight",
       "Urhobo": "Ujọne gb'ẹrere."
    },
    {
       "﻿id": 368,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Eighty-nine",
       "Urhobo": "Ujọne gb'irhirin."
    },
    {
       "﻿id": 369,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety",
       "Urhobo": "Ujọne gb'ihwe."
    },
    {
       "﻿id": 370,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-one",
       "Urhobo": "Ujọne gb'ihwe gb'ọvo."
    },
    {
       "﻿id": 371,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-two",
       "Urhobo": "Ujọne gb'ihwe gb'ivẹ."
    },
    {
       "﻿id": 372,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-three",
       "Urhobo": "Ujọne gb'ihwe gb'erha."
    },
    {
       "﻿id": 373,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-four",
       "Urhobo": "Ujọne gb'ihwe gb'ẹne."
    },
    {
       "﻿id": 374,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-five",
       "Urhobo": "Ujọne gb'ihwe gb'iyorin."
    },
    {
       "﻿id": 375,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-six",
       "Urhobo": "Ujọne gb'ihwe gb'esan."
    },
    {
       "﻿id": 376,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-seven",
       "Urhobo": "Ujọne gb'ihwe gb'ighwrẹn."
    },
    {
       "﻿id": 377,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-eight",
       "Urhobo": "Ujọne gb'ihwe gb'ẹrere."
    },
    {
       "﻿id": 378,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "Ninety-nine",
       "Urhobo": "Ujọne gb'ihwe gb'irhirin."
    },
    {
       "﻿id": 379,
-      "Category": "numeracy",
+      "Category": "Numeracy",
       "English": "One-hundred",
       "Urhobo": "Ujuorin"
    }

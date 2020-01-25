@@ -10,19 +10,12 @@ import SwiftUI
 
 struct ContentView: View {
     
-   //Get the decoded data
-    @ObservedObject var dictionaryData = DataLoader()
-    
-    
+ 
     var body: some View {
         
         NavigationView {
         
                 VStack {
-                
-               //ListDictionary()
-                 
-                    
                     
                     ZStack(alignment: .bottom) {
                         

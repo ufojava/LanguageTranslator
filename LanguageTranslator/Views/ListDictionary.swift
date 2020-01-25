@@ -17,7 +17,7 @@ struct ListDictionary: View {
     var body: some View {
         
         
-          NavigationView {
+          //NavigationView {
               
               VStack {
                   
@@ -60,9 +60,9 @@ struct ListDictionary: View {
               
               }//End of VStack
             
-            .navigationBarTitle(Text("Urhobo Translator"))
+                .navigationBarTitle(Text("Urhobo Translator"),displayMode: .inline)
                
-          }//End of Navigation View
+          //}//End of Navigation View
         
     }
 }
