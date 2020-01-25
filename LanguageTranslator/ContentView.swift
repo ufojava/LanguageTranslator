@@ -18,35 +18,33 @@ struct ContentView: View {
         
         NavigationView {
         
-        VStack {
-            
-            //List the Data in a View
-            
-            
-            
-            List(dictionaryData.dictionaryData, id: \.id) { data in
-            
-                
                 VStack {
-                Text("\(data.Category) - ")
-                    .foregroundColor(Color.red)
-                }
-                HStack {
-                    
-                Text("\(data.English) - ")
-                    .foregroundColor(Color.blue)
-                Text("\(data.Urhobo)")
-                }
-            }
                 
-            .font(.system(size: 14))
-        .navigationBarTitle(Text("Urhobo Translator"))
-        }
-         
-    }
-    }
+               //ListDictionary()
+                 
+                    
+                    
+                    ZStack(alignment: .bottom) {
+                        
+                        //Insert Applcation Background
+                        Image("UrhoboBkGrd_GreenV2")
+                        .resizable()
+                        .scaledToFill()
+                        
+                        
+                        //Call Menu
+                        Menu()
+
+                    }.padding() //End of ZStack
+                    
+                    
+                }//End of VStack
+            
+            .navigationBarTitle(Text("Home 🏚"))
         
-   
+        }
+        
+    }
 }
 
 struct ContentView_Previews: PreviewProvider {
@@ -54,3 +52,7 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+    
+    
