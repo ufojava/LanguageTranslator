@@ -9,9 +9,44 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+   //Get the decoded data
+    @ObservedObject var dictionaryData = DataLoader()
+    
+    
     var body: some View {
-        Text("Hello, World!")
+        
+        NavigationView {
+        
+        VStack {
+            
+            //List the Data in a View
+            
+            
+            
+            List(dictionaryData.dictionaryData, id: \.id) { data in
+            
+                
+                VStack {
+                Text("\(data.Category) - ")
+                    .foregroundColor(Color.red)
+                }
+                HStack {
+                    
+                Text("\(data.English) - ")
+                    .foregroundColor(Color.blue)
+                Text("\(data.Urhobo)")
+                }
+            }
+                
+            .font(.system(size: 14))
+        .navigationBarTitle(Text("Urhobo Translator"))
+        }
+         
     }
+    }
+        
+   
 }
 
 struct ContentView_Previews: PreviewProvider {
