@@ -19,6 +19,10 @@ struct FilteredDictionary: View {
     @State private var wordCategory = ""
     @State var showDetails = false
     
+    //Variable for Picker
+    var selectCategory = ["Annatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
+    @State private var selectedCategory = 0
+    
     
     func filteredArray(inEnglishWord: String) -> some View {
         
@@ -40,18 +44,24 @@ struct FilteredDictionary: View {
         
         VStack {
         
-            
-            TextField("Enter Category",text: $wordCategory)
-                .font(.system(size:20))
-                .padding()
-                .border(Color.gray,width: 0.6)
-                .cornerRadius(2)
+            Form {
                 
-                
-                .padding()
+                Section(header: Text("Select Category").bold()) {
             
-            //Spacer()
-  
+            
+                    Picker(selection: $selectedCategory, label: Text("Select Category")) {
+                        
+                        ForEach(0..<8) {
+                            
+                            Text(self.selectCategory[$0])
+                        }//End Foreach
+                        
+                    }//End Picker
+            
+                }//End of Section
+    
+        
+                
             Button(action: {
                 
                 self.showDetails.toggle()
@@ -61,17 +71,27 @@ struct FilteredDictionary: View {
             }) {
                 
                 Text("Get Details")
+                .padding()
+                    .frame(width:120, height: 35)
+                    .background(Color.blue)
+                    .foregroundColor(Color.white)
+                    .cornerRadius(6.0)
+                    
                 
                 
             }//End of the Button Execute closure
             
             if showDetails {
                 
-                self.filteredArray(inEnglishWord: self.wordCategory)
+                self.filteredArray(inEnglishWord: selectCategory[selectedCategory])
                 
-            }//Code to follow button action
+            }//End of Button
+                
+             
+                
+        
             
-            
+            }//End of Form
             
             
             Spacer()
@@ -79,7 +99,7 @@ struct FilteredDictionary: View {
         }//End VStack
             
         
-            .navigationBarTitle(Text("Category \(self.wordCategory)"),displayMode: .inline)
+            .navigationBarTitle(Text("Category"),displayMode: .inline)
     }
     
 }
