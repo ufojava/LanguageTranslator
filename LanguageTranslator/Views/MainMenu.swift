@@ -16,6 +16,7 @@ struct Menu: View {
     @State private var showFrontImage = true
     @State private var showAllDictionary = false
     @State private var showSearch = false
+    @State private var showTestYourSelf = false
     
     
     
@@ -91,9 +92,27 @@ struct Menu: View {
                
                 
             }
+                
+                
+                if showTestYourSelf {
+                    
+                    //Enter Navigation Link Here
+                    
+                    HStack {
+                        
+                        MenuIcons(icon: "gamecontroller")
+                            .foregroundColor(Color.green)
+                        
+                        //Icon Legend
+                        Text("Test Self  ")
+                            .foregroundColor(Color.black)
+                            .fontWeight(.bold)
+                        
+                    }//End of HStack
+                }
             
             }//End of VStack for Icons
-            Spacer().frame(height:230)
+            Spacer().frame(height:225)
             
             Button(action: {
                 
@@ -105,7 +124,7 @@ struct Menu: View {
                 
                 
                 //Main Menu Icon
-                Text("Menu")
+                Text("Menu ->")
                     .foregroundColor(Color.black).fontWeight(.bold)
         
                 Image(systemName: "circle")
@@ -153,6 +172,15 @@ struct Menu: View {
             withAnimation {
                 
                 self.showSearch.toggle()
+            }
+        }
+        
+        //Test Yourself
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+            
+            withAnimation {
+                
+                self.showTestYourSelf.toggle()
             }
         }
         
