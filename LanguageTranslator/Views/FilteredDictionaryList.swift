@@ -20,22 +20,28 @@ struct FilteredDictionary: View {
     @State var showDetails = false
     
     //Variable for Picker
-    var selectCategory = ["Annatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
+    var selectCategory = ["Anatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
     @State private var selectedCategory = 0
+
     
     
+    //Fuction to retrun search result
     func filteredArray(inEnglishWord: String) -> some View {
         
-        let ourArray = dictionaryData.dictionaryData
+        let dictionaryArray = dictionaryData.dictionaryData
         
-        let filteredArray = ourArray.filter {$0.Category == inEnglishWord}
+        let filteredArray = dictionaryArray.filter {$0.Category == inEnglishWord}
+        
+        
         
        return  List(filteredArray,id: \.id) {data in
             Text("\(data.English) - ")
             Text("\(data.Urhobo)")
                 .foregroundColor(Color.blue)
             
-        }
+            }
+            
+        
        
     }//End of Function
     
@@ -59,8 +65,8 @@ struct FilteredDictionary: View {
                     }//End Picker
             
                 }//End of Section
-    
-        
+                
+            
                 
             Button(action: {
                 
@@ -88,8 +94,6 @@ struct FilteredDictionary: View {
             }//End of Button
                 
              
-                
-        
             
             }//End of Form
             
