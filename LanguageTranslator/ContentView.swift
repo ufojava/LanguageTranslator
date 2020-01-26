@@ -19,15 +19,17 @@ struct ContentView: View {
                     
                     ZStack(alignment: .bottom) {
                         
+                    
+                            
                         //Insert Applcation Background
                         Image("UrhoboBkGrd_GreenV2")
                         .resizable()
                         .scaledToFill()
-                        
+                            
                         
                         //Call Menu
                         Menu()
-
+                        
                     }.padding() //End of ZStack
                     
                     

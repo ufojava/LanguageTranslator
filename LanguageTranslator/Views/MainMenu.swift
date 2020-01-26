@@ -15,7 +15,8 @@ struct Menu: View {
     
     @State private var showFrontImage = true
     @State private var showAllDictionary = false
-    @State private var showSearch = false
+    @State private var showCatSearch = false
+    @State private var showWordSearch = false
     @State private var showTestYourSelf = false
     
     
@@ -30,10 +31,10 @@ struct Menu: View {
             
             
             //VStack for Icons
-            
+           
             VStack {
                 
-                
+               
                 if showFrontImage {
                     Image("front_image")
                         .resizable()
@@ -43,7 +44,7 @@ struct Menu: View {
                     
                         
                 }
-            
+                
             //Menu Icon for All Records
             if showAllDictionary {
                 
@@ -55,7 +56,7 @@ struct Menu: View {
                             .foregroundColor(Color.yellow)
                         
                         //Icon Legend
-                        Text("Translator")
+                        Text("Dictionary    ")
                             .foregroundColor(Color.black)
                             .fontWeight(.bold)
                     
@@ -68,7 +69,7 @@ struct Menu: View {
                 
                 
             //Show Custom Search
-            if showSearch {
+            if showCatSearch {
                 
                 NavigationLink(destination: FilteredDictionary()) {
                     
@@ -79,7 +80,7 @@ struct Menu: View {
                        
                        
                        //Icon Legend
-                       Text("Search      ")
+                       Text("Cat. Search")
                            .foregroundColor(Color.black)
                            .fontWeight(.bold)
                        
@@ -93,6 +94,28 @@ struct Menu: View {
                 
             }
                 
+                //Word Search
+                if showWordSearch {
+                    
+                    //Enter Word Search here
+                    
+                    
+                    HStack {
+                        
+                        
+                        MenuIcons(icon: "viewfinder.circle")
+                            .foregroundColor(Color.gray)
+                        
+                        //Icon Legend
+                        Text("Word Search")
+                            .foregroundColor(Color.black)
+                            .fontWeight(.bold)
+                        
+                        
+                        
+                    }
+                }
+                
                 
                 if showTestYourSelf {
                     
@@ -104,7 +127,7 @@ struct Menu: View {
                             .foregroundColor(Color.green)
                         
                         //Icon Legend
-                        Text("Test Self  ")
+                        Text("Test Self       ")
                             .foregroundColor(Color.black)
                             .fontWeight(.bold)
                         
@@ -112,7 +135,7 @@ struct Menu: View {
                 }
             
             }//End of VStack for Icons
-            Spacer().frame(height:225)
+            Spacer().frame(height:175)
             
             Button(action: {
                 
@@ -171,12 +194,22 @@ struct Menu: View {
             
             withAnimation {
                 
-                self.showSearch.toggle()
+                self.showCatSearch.toggle()
             }
         }
         
-        //Test Yourself
+        //English Word Search
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+            
+            withAnimation {
+                self.showWordSearch.toggle()
+                
+            }
+            
+        }
+        
+        //Test Yourself
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
             
             withAnimation {
                 

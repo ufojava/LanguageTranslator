@@ -22,6 +22,9 @@ struct FilteredDictionary: View {
     //Variable for Picker
     var selectCategory = ["Anatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
     @State private var selectedCategory = 0
+    
+    //Image Name Variable
+    @State private var categoryImageName = ""
 
     
     
@@ -45,6 +48,9 @@ struct FilteredDictionary: View {
        
     }//End of Function
     
+
+    
+    
     
     var body: some View {
         
@@ -66,34 +72,41 @@ struct FilteredDictionary: View {
             
                 }//End of Section
                 
+
             
                 
-            Button(action: {
+                Section(header: Text("Get Results").bold()) {
+                    
+                    Button(action: {
+                        
+                        self.showDetails.toggle()
+                        
+                        
+                        
+                    }) {
+                        
+                        Text("Get Details")
+                        .padding()
+                            .frame(width:120, height: 35)
+                            .background(Color.blue)
+                            .foregroundColor(Color.white)
+                            .cornerRadius(6.0)
+                            
+                        
+                        
+                    }//End of the Button Execute closure
+                    
+                    if showDetails {
+                        
+                        self.filteredArray(inEnglishWord: selectCategory[selectedCategory])
+                        
+                    }//End of Button
                 
-                self.showDetails.toggle()
-                
-                
-                
-            }) {
-                
-                Text("Get Details")
-                .padding()
-                    .frame(width:120, height: 35)
-                    .background(Color.blue)
-                    .foregroundColor(Color.white)
-                    .cornerRadius(6.0)
+                }
+                    
                     
                 
-                
-            }//End of the Button Execute closure
             
-            if showDetails {
-                
-                self.filteredArray(inEnglishWord: selectCategory[selectedCategory])
-                
-            }//End of Button
-                
-             
             
             }//End of Form
             
