@@ -18,8 +18,8 @@ struct ListDictionary: View {
     @State private var categoryArray = ["Anatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
     
     //Variables to link to Word & Category Search
-    @State private var getCategorySearch = false
-    @State private var getWordSearch = false
+    //@State private var getCategorySearchToggle = false
+    @State private var getWordSearchToggle = false
     
     
     //Number of Categories
@@ -64,39 +64,45 @@ struct ListDictionary: View {
           //NavigationView {
               
               VStack {
-                Section(header: Text("Search").bold()) {
-                    VStack {
+                Section(header: Text("----------------------------------").bold()) {
                     
-                    Button(action: {}) {
+                    HStack {
+                   
+                            //Category
+                            NavigationLink(destination: FilteredDictionary()) {
+                                
+                                Text("Category")
+                                    .padding()
+                                    .background(Color.blue)
+                                    .foregroundColor(Color.white)
+                                    .cornerRadius(6)
+                                
+                            }//End of Category Search
                         
-                        Text("Category")
-                        .padding()
-                            .frame(width:250,  height: 30)
-                            .background(Color.blue)
-                            .foregroundColor(Color.white)
-                            .cornerRadius(6)
-                        
-                        
-                    }.padding(.horizontal, 50)
-                        
-                        Spacer().frame(height:10)
-                    
-                    Button(action: {}) {
-                        
-                        Text("Word Search")
-                        .padding()
-                        .frame(width:250,  height: 30)
-                        .background(Color.blue)
-                        .foregroundColor(Color.white)
-                        .cornerRadius(6)
-                    }.padding(.horizontal, 50)
+                            //Word Search
+                        NavigationLink(destination: WordSearch()) {
+                            
+                            
+                            Text("Word Search")
+                                .padding()
+                                .background(Color.blue)
+                                .foregroundColor(Color.white)
+                                .cornerRadius(6)
+                        }
+                       
+               
                         
                     
                 }//End of HStack
                
+                    
                 }//End of Section
-                Spacer().frame(height:10)
-                Section(header: Text("Category Statistics").bold()) {
+                Spacer().frame(height:20)
+                
+                
+                
+                
+                Section(header: Text("Category Breakdown").bold()) {
                 List(categoryArray,id: \.self) {cat in
                     
                    

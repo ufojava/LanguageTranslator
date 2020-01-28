@@ -2266,5 +2266,839 @@
       "Category": "Numeracy",
       "English": "One-hundred",
       "Urhobo": "Ujuorin"
+   },
+   {
+      "id": 380,
+      "Category": "Phrases",
+      "English": "Suffering day.",
+      "Urhobo": "Edoja  "
+   },
+   {
+      "id": 381,
+      "Category": "Phrases",
+      "English": "Festive day.",
+      "Urhobo": "Edoreh "
+   },
+   {
+      "id": 382,
+      "Category": "Phrases",
+      "English": "Dancing day.",
+      "Urhobo": "Edudje  "
+   },
+   {
+      "id": 383,
+      "Category": "Phrases",
+      "English": "Kingdom day.",
+      "Urhobo": "Eduvie  "
+   },
+   {
+      "id": 384,
+      "Category": "Phrases",
+      "English": "Riches.",
+      "Urhobo": "Efe  "
+   },
+   {
+      "id": 385,
+      "Category": "Phrases",
+      "English": "Food for crowd.",
+      "Urhobo": "Emurotu"
+   },
+   {
+      "id": 386,
+      "Category": "Phrases",
+      "English": "Life riches.",
+      "Urhobo": "Efeakpona "
+   },
+   {
+      "id": 387,
+      "Category": "Phrases",
+      "English": "Gentle riches.",
+      "Urhobo": "Efedede "
+   },
+   {
+      "id": 388,
+      "Category": "Phrases",
+      "English": "My riches.",
+      "Urhobo": "Efemena "
+   },
+   {
+      "id": 389,
+      "Category": "Phrases",
+      "English": "Rich let me see.",
+      "Urhobo": "Efemini "
+   },
+   {
+      "id": 390,
+      "Category": "Phrases",
+      "English": "Be rich for Children.",
+      "Urhobo": "Efekemo"
+   },
+   {
+      "id": 391,
+      "Category": "Phrases",
+      "English": "Already rich.",
+      "Urhobo": "Efenure"
+   },
+   {
+      "id": 392,
+      "Category": "Phrases",
+      "English": "Riches from God.",
+      "Urhobo": "Efeoghene "
+   },
+   {
+      "id": 393,
+      "Category": "Phrases",
+      "English": "Wealth has come.",
+      "Urhobo": "Eferhire "
+   },
+   {
+      "id": 394,
+      "Category": "Phrases",
+      "English": "Riches with respect.",
+      "Urhobo": "Eferogho "
+   },
+   {
+      "id": 395,
+      "Category": "Phrases",
+      "English": "Urhobo riches.",
+      "Urhobo": "Eferurhobo "
+   },
+   {
+      "id": 396,
+      "Category": "Phrases",
+      "English": "Rich for themselves.",
+      "Urhobo": "Efekomaraye "
+   },
+   {
+      "id": 397,
+      "Category": "Phrases",
+      "English": " Is enough.",
+      "Urhobo": "Oteri"
+   },
+   {
+      "id": 398,
+      "Category": "Phrases",
+      "English": "Youth.",
+      "Urhobo": "Eghele "
+   },
+   {
+      "id": 399,
+      "Category": "Phrases",
+      "English": "Love.",
+      "Urhobo": "Eguono"
+   },
+   {
+      "id": 400,
+      "Category": "Phrases",
+      "English": "Let them talk.",
+      "Urhobo": "Ejaeta "
+   },
+   {
+      "id": 401,
+      "Category": "Phrases",
+      "English": "Let them rich.",
+      "Urhobo": "Ejaife "
+   },
+   {
+      "id": 402,
+      "Category": "Phrases",
+      "English": "Let my own good.",
+      "Urhobo": "Ejemeyovwi "
+   },
+   {
+      "id": 403,
+      "Category": "Phrases",
+      "English": "Praise.",
+      "Urhobo": "Ejiro "
+   },
+   {
+      "id": 404,
+      "Category": "Phrases",
+      "English": "Praise God.",
+      "Urhobo": "Ejiroghene "
+   },
+   {
+      "id": 405,
+      "Category": "Phrases",
+      "English": "Live for him/her.",
+      "Urhobo": "Ejoke "
+   },
+   {
+      "id": 406,
+      "Category": "Phrases",
+      "English": "Leave.",
+      "Urhobo": "Ejovwo "
+   },
+   {
+      "id": 407,
+      "Category": "Phrases",
+      "English": "Let obstacles leave it.",
+      "Urhobo": "Ejukonemu "
+   },
+   {
+      "id": 408,
+      "Category": "Phrases",
+      "English": "Let me worry.",
+      "Urhobo": "Ejuvwekpokpo "
+   },
+   {
+      "id": 409,
+      "Category": "Phrases",
+      "English": "Market.",
+      "Urhobo": "Eki "
+   },
+   {
+      "id": 410,
+      "Category": "Phrases",
+      "English": "Market day.",
+      "Urhobo": "Edeki "
+   },
+   {
+      "id": 411,
+      "Category": "Phrases",
+      "English": "Gather crowd.",
+      "Urhobo": "Ekokotu"
+   },
+   {
+      "id": 412,
+      "Category": "Phrases",
+      "English": "Live long life and eat.",
+      "Urhobo": "Ekrakpoariemu "
+   },
+   {
+      "id": 413,
+      "Category": "Phrases",
+      "English": "Shine.",
+      "Urhobo": "Elo "
+   },
+   {
+      "id": 414,
+      "Category": "Phrases",
+      "English": "Softness.",
+      "Urhobo": "Eloho "
+   },
+   {
+      "id": 415,
+      "Category": "Phrases",
+      "English": "Change name.",
+      "Urhobo": "Ewenode "
+   },
+   {
+      "id": 416,
+      "Category": "Phrases",
+      "English": "Wealth is Powerful.",
+      "Urhobo": "Efegoma"
+   },
+   {
+      "id": 417,
+      "Category": "Phrases",
+      "English": "Children are wealth/riches.",
+      "Urhobo": "Emoefe "
+   },
+   {
+      "id": 418,
+      "Category": "Phrases",
+      "English": "Children of God.",
+      "Urhobo": "Emoghene "
+   },
+   {
+      "id": 419,
+      "Category": "Phrases",
+      "English": "Let Children come.",
+      "Urhobo": "Emore "
+   },
+   {
+      "id": 420,
+      "Category": "Phrases",
+      "English": "There is time for everything.",
+      "Urhobo": "Emuejevoke "
+   },
+   {
+      "id": 421,
+      "Category": "Phrases",
+      "English": "Food at hand.",
+      "Urhobo": "Emuobo"
+   },
+   {
+      "id": 422,
+      "Category": "Phrases",
+      "English": "Richmen's gift.",
+      "Urhobo": "Esedafe"
+   },
+   {
+      "id": 423,
+      "Category": "Phrases",
+      "English": "One's own property.",
+      "Urhobo": "Emuibohwo "
+   },
+   {
+      "id": 424,
+      "Category": "Phrases",
+      "English": "Personal thing is different.",
+      "Urhobo": "Emuobosa "
+   },
+   {
+      "id": 425,
+      "Category": "Phrases",
+      "English": "These are still enough.",
+      "Urhobo": "Enajite "
+   },
+   {
+      "id": 426,
+      "Category": "Phrases",
+      "English": "Looking at them.",
+      "Urhobo": "Enaye "
+   },
+   {
+      "id": 427,
+      "Category": "Phrases",
+      "English": "Little laugh.",
+      "Urhobo": "Emehwẹkrẹ "
+   },
+   {
+      "id": 428,
+      "Category": "Phrases",
+      "English": " Builder.",
+      "Urhobo": "Emama"
+   },
+   {
+      "id": 429,
+      "Category": "Phrases",
+      "English": " Rich/strong.",
+      "Urhobo": "Efegoma"
+   },
+   {
+      "id": 430,
+      "Category": "Phrases",
+      "English": "Words",
+      "Urhobo": "Eta"
+   },
+   {
+      "id": 431,
+      "Category": "Phrases",
+      "English": " There is time for everything.",
+      "Urhobo": "Emuejevoke"
+   },
+   {
+      "id": 432,
+      "Category": "Phrases",
+      "English": " These are the good ones.",
+      "Urhobo": "Enayoma"
+   },
+   {
+      "id": 433,
+      "Category": "Phrases",
+      "English": " Sack",
+      "Urhobo": "Esiso"
+   },
+   {
+      "id": 434,
+      "Category": "Phrases",
+      "English": " Look yourself well.",
+      "Urhobo": "Enomate"
+   },
+   {
+      "id": 435,
+      "Category": "Phrases",
+      "English": " Out of death.",
+      "Urhobo": "Enughwure"
+   },
+   {
+      "id": 436,
+      "Category": "Phrases",
+      "English": " Those life are peaceful for.",
+      "Urhobo": "Erakpofuke"
+   },
+   {
+      "id": 437,
+      "Category": "Phrases",
+      "English": " Beauty.",
+      "Urhobo": "Erhuvwu"
+   },
+   {
+      "id": 438,
+      "Category": "Phrases",
+      "English": " Dustbin.",
+      "Urhobo": "Erhurhu"
+   },
+   {
+      "id": 439,
+      "Category": "Phrases",
+      "English": " That is how we see it.",
+      "Urhobo": "Eriyamremu"
+   },
+   {
+      "id": 440,
+      "Category": "Phrases",
+      "English": " Do a good thing.",
+      "Urhobo": "Eruoresiri"
+   },
+   {
+      "id": 441,
+      "Category": "Phrases",
+      "English": " Them treat me till i wise.",
+      "Urhobo": "Eruvweteghware"
+   },
+   {
+      "id": 442,
+      "Category": "Phrases",
+      "English": " God's blessings.",
+      "Urhobo": "Eseoghene"
+   },
+   {
+      "id": 443,
+      "Category": "Phrases",
+      "English": " Let prayer work.",
+      "Urhobo": "Ejerhovwose"
+   },
+   {
+      "id": 444,
+      "Category": "Phrases",
+      "English": " Signs.",
+      "Urhobo": "Ekah"
+   },
+   {
+      "id": 445,
+      "Category": "Phrases",
+      "English": " The words of rich men are always right.",
+      "Urhobo": "Etaedaferua"
+   },
+   {
+      "id": 446,
+      "Category": "Phrases",
+      "English": " God's words.",
+      "Urhobo": "Etaoghene"
+   },
+   {
+      "id": 447,
+      "Category": "Phrases",
+      "English": " Get there first.",
+      "Urhobo": "Etetaye"
+   },
+   {
+      "id": 448,
+      "Category": "Phrases",
+      "English": " It's inside stomach words are.",
+      "Urhobo": "Evunetapha"
+   },
+   {
+      "id": 449,
+      "Category": "Phrases",
+      "English": " Death has ended.",
+      "Urhobo": "Eghwubare"
+   },
+   {
+      "id": 450,
+      "Category": "Phrases",
+      "English": " Women are strong now.",
+      "Urhobo": "Eyagomare"
+   },
+   {
+      "id": 451,
+      "Category": "Phrases",
+      "English": " They have lost my belt.",
+      "Urhobo": "Eyanmẹkwaire"
+   },
+   {
+      "id": 452,
+      "Category": "Phrases",
+      "English": " Peaceful.",
+      "Urhobo": "Fuvwe"
+   },
+   {
+      "id": 453,
+      "Category": "Phrases",
+      "English": " Let's be quite for God.",
+      "Urhobo": "̧Aforkoghene"
+   },
+   {
+      "id": 454,
+      "Category": "Phrases",
+      "English": " Run away from someone.",
+      "Urhobo": "Adjeke"
+   },
+   {
+      "id": 455,
+      "Category": "Phrases",
+      "English": " Let's go into the world.",
+      "Urhobo": "Aruakpa"
+   },
+   {
+      "id": 456,
+      "Category": "Phrases",
+      "English": " Timber woods.",
+      "Urhobo": "Gedu"
+   },
+   {
+      "id": 457,
+      "Category": "Phrases",
+      "English": " Life tried their best.",
+      "Urhobo": "Akporube"
+   },
+   {
+      "id": 458,
+      "Category": "Phrases",
+      "English": " Buy respect.",
+      "Urhobo": "Doghor"
+   },
+   {
+      "id": 459,
+      "Category": "Phrases",
+      "English": " Individuals with different minds.",
+      "Urhobo": "Dohwodewhe"
+   },
+   {
+      "id": 460,
+      "Category": "Phrases",
+      "English": " Oppressing me.",
+      "Urhobo": "Ekuyovwe"
+   },
+   {
+      "id": 461,
+      "Category": "Phrases",
+      "English": " Build.",
+      "Urhobo": "Eboh"
+   },
+   {
+      "id": 462,
+      "Category": "Phrases",
+      "English": " Select.",
+      "Urhobo": "Etsana"
+   },
+   {
+      "id": 463,
+      "Category": "Phrases",
+      "English": " We are rich already.",
+      "Urhobo": "Efenure"
+   },
+   {
+      "id": 464,
+      "Category": "Phrases",
+      "English": " Have strong Destiny.",
+      "Urhobo": "Erhiga"
+   },
+   {
+      "id": 465,
+      "Category": "Phrases",
+      "English": " Clean mind.",
+      "Urhobo": "Evuarhere"
+   },
+   {
+      "id": 466,
+      "Category": "Phrases",
+      "English": " They are still alive.",
+      "Urhobo": "Ejakpor"
+   },
+   {
+      "id": 467,
+      "Category": "Phrases",
+      "English": " Giving birth to another following me.",
+      "Urhobo": "Evwiekparoma"
+   },
+   {
+      "id": 468,
+      "Category": "Phrases",
+      "English": " He is oppressing me.",
+      "Urhobo": "Ekuyovwe"
+   },
+   {
+      "id": 469,
+      "Category": "Phrases",
+      "English": " Upstairs.",
+      "Urhobo": "Egedege"
+   },
+   {
+      "id": 470,
+      "Category": "Phrases",
+      "English": " This is my share.",
+      "Urhobo": "Ekemena"
+   },
+   {
+      "id": 471,
+      "Category": "Phrases",
+      "English": "Riches is intoxicating them.",
+      "Urhobo": "Efemuaye"
+   },
+   {
+      "id": 472,
+      "Category": "Phrases",
+      "English": " I love children.",
+      "Urhobo": "Emojevwe"
+   },
+   {
+      "id": 473,
+      "Category": "Phrases",
+      "English": " Use mouth to reject person.",
+      "Urhobo": "Unuavwojohwofia "
+   },
+   {
+      "id": 474,
+      "Category": "Phrases",
+      "English": " Charcoal.",
+      "Urhobo": "Ibi"
+   },
+   {
+      "id": 475,
+      "Category": "Phrases",
+      "English": " They are dark.",
+      "Urhobo": "Ibiri"
+   },
+   {
+      "id": 476,
+      "Category": "Phrases",
+      "English": " They are too much.",
+      "Urhobo": "Ibunor"
+   },
+   {
+      "id": 477,
+      "Category": "Phrases",
+      "English": " Much.",
+      "Urhobo": "Iburu"
+   },
+   {
+      "id": 478,
+      "Category": "Phrases",
+      "English": " Empty.",
+      "Urhobo": "idiodi"
+   },
+   {
+      "id": 479,
+      "Category": "Phrases",
+      "English": " Flower.",
+      "Urhobo": "idodo"
+   },
+   {
+      "id": 480,
+      "Category": "Phrases",
+      "English": " Money.",
+      "Urhobo": "idonor"
+   },
+   {
+      "id": 481,
+      "Category": "Phrases",
+      "English": " Threat.",
+      "Urhobo": "Igbigbi"
+   },
+   {
+      "id": 482,
+      "Category": "Phrases",
+      "English": " Great singers.",
+      "Urhobo": "Igbine"
+   },
+   {
+      "id": 483,
+      "Category": "Phrases",
+      "English": " Timber woods.",
+      "Urhobo": "Igedu"
+   },
+   {
+      "id": 484,
+      "Category": "Phrases",
+      "English": " Money.",
+      "Urhobo": "Igho"
+   },
+   {
+      "id": 485,
+      "Category": "Phrases",
+      "English": " Money is getting much.",
+      "Urhobo": "Ighobue"
+   },
+   {
+      "id": 486,
+      "Category": "Phrases",
+      "English": " Finance can scatter lovers relationship.",
+      "Urhobo": "Ighofose"
+   },
+   {
+      "id": 487,
+      "Category": "Phrases",
+      "English": " Money is calling you.",
+      "Urhobo": "Ighosewe"
+   },
+   {
+      "id": 488,
+      "Category": "Phrases",
+      "English": " Money has respect.",
+      "Urhobo": "Ighovogho"
+   },
+   {
+      "id": 489,
+      "Category": "Phrases",
+      "English": " Buckets.",
+      "Urhobo": "Igogono"
+   },
+   {
+      "id": 490,
+      "Category": "Phrases",
+      "English": " Frogs.",
+      "Urhobo": "Igoro"
+   },
+   {
+      "id": 491,
+      "Category": "Phrases",
+      "English": " Big elephants",
+      "Urhobo": "Ikpeni"
+   },
+   {
+      "id": 492,
+      "Category": "Phrases",
+      "English": " Small pieces.",
+      "Urhobo": "Ikuku"
+   },
+   {
+      "id": 493,
+      "Category": "Phrases",
+      "English": " Is stories i know how to tell.",
+      "Urhobo": "Ikumariegbe"
+   },
+   {
+      "id": 494,
+      "Category": "Phrases",
+      "English": " Young youths.",
+      "Urhobo": "Imighele"
+   },
+   {
+      "id": 495,
+      "Category": "Phrases",
+      "English": " Cups.",
+      "Urhobo": "Imiko"
+   },
+   {
+      "id": 496,
+      "Category": "Phrases",
+      "English": " There are relatives.",
+      "Urhobo": "Imoniero"
+   },
+   {
+      "id": 497,
+      "Category": "Phrases",
+      "English": " Cry for brethren.",
+      "Urhobo": "Imoniavie"
+   },
+   {
+      "id": 498,
+      "Category": "Phrases",
+      "English": " Relatives to buttocks.",
+      "Urhobo": "Imonikebe"
+   },
+   {
+      "id": 499,
+      "Category": "Phrases",
+      "English": " Togetherness of brethren.",
+      "Urhobo": "Imonikugbere"
+   },
+   {
+      "id": 500,
+      "Category": "Phrases",
+      "English": " Relatives talk.",
+      "Urhobo": "Imonita"
+   },
+   {
+      "id": 501,
+      "Category": "Phrases",
+      "English": " First to get rich.",
+      "Urhobo": "Irikefe"
+   },
+   {
+      "id": 502,
+      "Category": "Phrases",
+      "English": " Thinking.",
+      "Urhobo": "Iroro"
+   },
+   {
+      "id": 503,
+      "Category": "Phrases",
+      "English": " Double thinking.",
+      "Urhobo": "Irorivẹ"
+   },
+   {
+      "id": 504,
+      "Category": "Phrases",
+      "English": " Blinds.",
+      "Urhobo": "Iruero"
+   },
+   {
+      "id": 505,
+      "Category": "Phrases",
+      "English": " Them do me.",
+      "Urhobo": "Iruvwe"
+   },
+   {
+      "id": 506,
+      "Category": "Phrases",
+      "English": " Groundnut.",
+      "Urhobo": "Isaghwe"
+   },
+   {
+      "id": 507,
+      "Category": "Phrases",
+      "English": " Perfume.",
+      "Urhobo": "Ishani"
+   },
+   {
+      "id": 508,
+      "Category": "Phrases",
+      "English": " Star.",
+      "Urhobo": "Isio"
+   },
+   {
+      "id": 509,
+      "Category": "Phrases",
+      "English": " A region outside your dwelling.",
+      "Urhobo": "Isiorho"
+   },
+   {
+      "id": 510,
+      "Category": "Phrases",
+      "English": " Army.",
+      "Urhobo": "Isodje"
+   },
+   {
+      "id": 511,
+      "Category": "Phrases",
+      "English": " Amen.",
+      "Urhobo": "Ise"
+   },
+   {
+      "id": 512,
+      "Category": "Phrases",
+      "English": " Parable.",
+      "Urhobo": "Ise"
+   },
+   {
+      "id": 513,
+      "Category": "Phrases",
+      "English": " Beads.",
+      "Urhobo": "Ivie"
+   },
+   {
+      "id": 514,
+      "Category": "Phrases",
+      "English": " Kings.",
+      "Urhobo": "Ivie"
+   },
+   {
+      "id": 515,
+      "Category": "Phrases",
+      "English": " Promises.",
+      "Urhobo": "Izeze"
+   },
+   {
+      "id": 516,
+      "Category": "Phrases",
+      "English": " Sacrifice.",
+      "Urhobo": "Izobo"
+   },
+   {
+      "id": 517,
+      "Category": "Phrases",
+      "English": " Jesus is enough for me.",
+      "Urhobo": "Jesutekevwe"
+   },
+   {
+      "id": 518,
+      "Category": "Phrases",
+      "English": "Let me talk",
+      "Urhobo": "Jimitota "
    }
 ]
