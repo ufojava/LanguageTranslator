@@ -56,7 +56,7 @@ struct Menu: View {
                             .foregroundColor(Color.yellow)
                         
                         //Icon Legend
-                        Text("Categories  ")
+                        Text("Word Cat.  ")
                             .foregroundColor(Color.black)
                             .fontWeight(.bold)
                     
@@ -80,7 +80,7 @@ struct Menu: View {
                        
                        
                        //Icon Legend
-                       Text("Cat. Search")
+                       Text("Category    ")
                            .foregroundColor(Color.black)
                         
                            .fontWeight(.bold)
@@ -109,7 +109,7 @@ struct Menu: View {
                                 .foregroundColor(Color.gray)
                             
                             //Icon Legend
-                            Text("Word Search")
+                            Text("Find Word    ")
                                 .foregroundColor(Color.black)
                                 .fontWeight(.bold)
                         

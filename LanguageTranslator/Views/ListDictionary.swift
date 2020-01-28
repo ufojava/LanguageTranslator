@@ -35,6 +35,28 @@ struct ListDictionary: View {
     }
     
     
+    //Stopped - Get Details
+    func dictionaryDetail(inCat: String) -> some View {
+        
+        
+        let dictionaryArray = dictionaryData.dictionaryData
+         
+         let filteredArray = dictionaryArray.filter {$0.Category == inCat}
+         
+         
+         
+        return  List(filteredArray,id: \.id) {data in
+             Text("\(data.English) - ")
+             Text("\(data.Urhobo)")
+                 .foregroundColor(Color.blue)
+            
+            
+        }
+        
+        
+    }
+    
+    
     
     var body: some View {
         
@@ -42,10 +64,39 @@ struct ListDictionary: View {
           //NavigationView {
               
               VStack {
-                  
-                
-              
-                      
+                Section(header: Text("Search").bold()) {
+                    VStack {
+                    
+                    Button(action: {}) {
+                        
+                        Text("Category")
+                        .padding()
+                            .frame(width:250,  height: 30)
+                            .background(Color.blue)
+                            .foregroundColor(Color.white)
+                            .cornerRadius(6)
+                        
+                        
+                    }.padding(.horizontal, 50)
+                        
+                        Spacer().frame(height:10)
+                    
+                    Button(action: {}) {
+                        
+                        Text("Word Search")
+                        .padding()
+                        .frame(width:250,  height: 30)
+                        .background(Color.blue)
+                        .foregroundColor(Color.white)
+                        .cornerRadius(6)
+                    }.padding(.horizontal, 50)
+                        
+                    
+                }//End of HStack
+               
+                }//End of Section
+                Spacer().frame(height:10)
+                Section(header: Text("Category Statistics").bold()) {
                 List(categoryArray,id: \.self) {cat in
                     
                    
@@ -60,11 +111,13 @@ struct ListDictionary: View {
                             .scaledToFill()
                     
                   
-                    }
+                    }//End of HStack
+                    
+              
              
+                }//End of List
+                  
                 }
-                  
-                  
                   
                   
               
