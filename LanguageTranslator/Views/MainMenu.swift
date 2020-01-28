@@ -14,7 +14,7 @@ import SwiftUI
 struct Menu: View {
     
     @State private var showFrontImage = true
-    @State private var showAllDictionary = false
+    @State private var showDictionaryStats = false
     @State private var showCatSearch = false
     @State private var showWordSearch = false
     @State private var showTestYourSelf = false
@@ -46,7 +46,7 @@ struct Menu: View {
                 }
                 
             //Menu Icon for All Records
-            if showAllDictionary {
+            if showDictionaryStats {
                 
                 NavigationLink(destination: ListDictionary()) {
     
@@ -56,7 +56,7 @@ struct Menu: View {
                             .foregroundColor(Color.yellow)
                         
                         //Icon Legend
-                        Text("Dictionary    ")
+                        Text("Categories  ")
                             .foregroundColor(Color.black)
                             .fontWeight(.bold)
                     
@@ -82,6 +82,7 @@ struct Menu: View {
                        //Icon Legend
                        Text("Cat. Search")
                            .foregroundColor(Color.black)
+                        
                            .fontWeight(.bold)
                        
                    }//End of HStack
@@ -98,23 +99,26 @@ struct Menu: View {
                 if showWordSearch {
                     
                     //Enter Word Search here
+                    NavigationLink(destination: WordSearch()) {
                     
                     
-                    HStack {
+                        HStack {
+                            
+                            
+                            MenuIcons(icon: "viewfinder.circle")
+                                .foregroundColor(Color.gray)
+                            
+                            //Icon Legend
+                            Text("Word Search")
+                                .foregroundColor(Color.black)
+                                .fontWeight(.bold)
                         
                         
-                        MenuIcons(icon: "viewfinder.circle")
-                            .foregroundColor(Color.gray)
                         
-                        //Icon Legend
-                        Text("Word Search")
-                            .foregroundColor(Color.black)
-                            .fontWeight(.bold)
-                        
-                        
-                        
-                    }
-                }
+                        }//End of HStack
+                    }//End of Naviagtion Link
+                    
+                }//End of Word Search
                 
                 
                 if showTestYourSelf {
@@ -160,7 +164,7 @@ struct Menu: View {
             
                     
                     
-                }//End of VStack
+        }//End of VStack
         
         
         
@@ -184,7 +188,7 @@ struct Menu: View {
             
             withAnimation {
                 
-                self.showAllDictionary.toggle()
+                self.showDictionaryStats.toggle()
             }
         }
         

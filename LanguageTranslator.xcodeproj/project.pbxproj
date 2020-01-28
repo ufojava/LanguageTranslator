@@ -19,6 +19,7 @@
 		0339B09D23DBCBB2000CBB0D /* ListDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B09C23DBCBB2000CBB0D /* ListDictionary.swift */; };
 		0339B09F23DC5E08000CBB0D /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B09E23DC5E08000CBB0D /* MainMenu.swift */; };
 		0339B0A123DCC98F000CBB0D /* FilteredDictionaryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */; };
+		0339B0A323DDFAA5000CBB0D /* FilteredWordSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		0339B09C23DBCBB2000CBB0D /* ListDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDictionary.swift; sourceTree = "<group>"; };
 		0339B09E23DC5E08000CBB0D /* MainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
 		0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredDictionaryList.swift; sourceTree = "<group>"; };
+		0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredWordSearch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				0339B09C23DBCBB2000CBB0D /* ListDictionary.swift */,
 				0339B09E23DC5E08000CBB0D /* MainMenu.swift */,
 				0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */,
+				0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				0339B09D23DBCBB2000CBB0D /* ListDictionary.swift in Sources */,
 				0339B09F23DC5E08000CBB0D /* MainMenu.swift in Sources */,
 				0339B08D23DA4B5B000CBB0D /* Dictionary.swift in Sources */,
+				0339B0A323DDFAA5000CBB0D /* FilteredWordSearch.swift in Sources */,
 				0339B09423DB7B7E000CBB0D /* DataLoader.swift in Sources */,
 				0339B07623DA1E4C000CBB0D /* SceneDelegate.swift in Sources */,
 				0339B07823DA1E4C000CBB0D /* ContentView.swift in Sources */,

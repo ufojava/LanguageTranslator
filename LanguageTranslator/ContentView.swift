@@ -15,7 +15,7 @@ struct ContentView: View {
         
         NavigationView {
         
-                VStack {
+            VStack {
                     
                     ZStack(alignment: .bottom) {
                         
