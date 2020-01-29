@@ -25,18 +25,32 @@ struct ListDictionary: View {
     //Number of Categories
     @State private var numberOfCategoris = 0
     
+    //Total Words in Dictionary
+    @State private var totalWordDictionay = 0
+    
     //Number of Items in Categories
     
     func dictionaryStats(inCategory: String) -> Int {
         
         let categoryCount = dictionaryData.dictionaryData.filter {$0.Category == inCategory}.count
         
+        
        return categoryCount
     }
     
+    //Total Catergory dictionary counter
+    var totalCategoryCount: Int {
+        
+        let catCounter = dictionaryData.dictionaryData.count
+        
+        return catCounter
+        
+        
+    }
     
     //Stopped - Get Details
     func dictionaryDetail(inCat: String) -> some View {
+        
         
         
         let dictionaryArray = dictionaryData.dictionaryData
@@ -54,7 +68,7 @@ struct ListDictionary: View {
         }
         
         
-    }
+    }//End of dictionat details
     
     
     
@@ -123,7 +137,10 @@ struct ListDictionary: View {
              
                 }//End of List
                   
-                }
+                }//End of Section
+                
+                Text(" Total Words: \(totalCategoryCount)")
+                    .font(.system(.largeTitle))
                   
                   
               
