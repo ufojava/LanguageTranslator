@@ -22,7 +22,7 @@ struct ContentView: View {
                     
                             
                         //Insert Applcation Background
-                        Image("UrhoboBkGrd_GreenV2")
+                        Image("UrhoboBkGrd_Green")
                         .resizable()
                         .scaledToFill()
                             

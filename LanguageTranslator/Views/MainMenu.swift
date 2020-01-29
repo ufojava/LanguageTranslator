@@ -39,61 +39,12 @@ struct Menu: View {
                     Image("front_image")
                         .resizable()
                         .scaledToFill()
-                        .frame(width:150, height: 50)
+                        .frame(width:200, height: 80)
                         .transition(.scale)
                     
                         
                 }
                 
-            //Menu Icon for All Records
-            if showDictionaryStats {
-                
-                NavigationLink(destination: ListDictionary()) {
-    
-                
-                HStack {
-                        MenuIcons(icon: "folder")
-                            .foregroundColor(Color.yellow)
-                        
-                        //Icon Legend
-                        Text("Word Cat.  ")
-                            .foregroundColor(Color.black)
-                            .fontWeight(.bold)
-                    
-                }
-                
-            }//End of Navigation Link
-            
-                }//End of Dictionary
-                
-                
-                
-            //Show Custom Search
-            if showCatSearch {
-                
-                NavigationLink(destination: FilteredDictionary()) {
-                    
-                    HStack {
-                                       
-                       MenuIcons(icon: "magnifyingglass")
-                           .foregroundColor(Color.purple)
-                       
-                       
-                       //Icon Legend
-                       Text("Category    ")
-                           .foregroundColor(Color.black)
-                        
-                           .fontWeight(.bold)
-                       
-                   }//End of HStack
-                    
-                    
-                    
-                }//End of Navigation Link
-                
-               
-                
-            }
                 
                 //Word Search
                 if showWordSearch {
@@ -109,7 +60,7 @@ struct Menu: View {
                                 .foregroundColor(Color.gray)
                             
                             //Icon Legend
-                            Text("Find Word    ")
+                            Text("Dictionary              ")
                                 .foregroundColor(Color.black)
                                 .fontWeight(.bold)
                         
@@ -117,6 +68,41 @@ struct Menu: View {
                         
                         }//End of HStack
                     }//End of Naviagtion Link
+                    
+                    
+                
+            
+                
+                
+                
+            //Show Custom Search
+            if showCatSearch {
+                
+                NavigationLink(destination: FilteredDictionary()) {
+                    
+                    HStack {
+                                       
+                       MenuIcons(icon: "magnifyingglass")
+                           .foregroundColor(Color.purple)
+                       
+                       
+                       //Icon Legend
+                       Text("Category Search")
+                           .foregroundColor(Color.black)
+                        
+                           .fontWeight(.bold)
+                       
+                   }//End of HStack
+                    
+                    
+                    
+                }//End of Navigation Link
+                
+               
+                
+            }//End Category Search
+                
+                
                     
                 }//End of Word Search
                 
@@ -131,15 +117,38 @@ struct Menu: View {
                             .foregroundColor(Color.green)
                         
                         //Icon Legend
-                        Text("Test Self       ")
+                        Text("Test Yourself      ")
                             .foregroundColor(Color.black)
                             .fontWeight(.bold)
                         
                     }//End of HStack
                 }
+                
+                
+                
+                //Menu Icon for All Records
+                if showDictionaryStats {
+                    
+                    NavigationLink(destination: ListDictionary()) {
+        
+                    
+                    HStack {
+                            MenuIcons(icon: "folder")
+                                .foregroundColor(Color.yellow)
+                            
+                            //Icon Legend
+                            Text("DB Information ")
+                                .foregroundColor(Color.black)
+                                .fontWeight(.bold)
+                        
+                    }
+                            
+                }//End of Navigation Link
+                        
+                            }//End of Dictionary
             
             }//End of VStack for Icons
-            Spacer().frame(height:175)
+            Spacer().frame(height:185)
             
             Button(action: {
                 
@@ -151,7 +160,7 @@ struct Menu: View {
                 
                 
                 //Main Menu Icon
-                Text("Menu ->")
+                Text("Menu ")
                     .foregroundColor(Color.black).fontWeight(.bold)
         
                 Image(systemName: "circle")
@@ -173,7 +182,6 @@ struct Menu: View {
     //Function to toggle Icons and Images
     func showSubMenu() {
         
-        
         //Front Image
         DispatchQueue.main.asyncAfter(deadline: .now() + 0) {
             
@@ -181,17 +189,21 @@ struct Menu: View {
                 self.showFrontImage.toggle()
                 
             }
-        }
         
-        //All Dictionary
+        
+        //English Word Search
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
             
             withAnimation {
+                self.showWordSearch.toggle()
                 
-                self.showDictionaryStats.toggle()
             }
+        
+        
+        
         }
         
+       
         
         //Custom Search
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
@@ -202,24 +214,27 @@ struct Menu: View {
             }
         }
         
-        //English Word Search
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-            
-            withAnimation {
-                self.showWordSearch.toggle()
-                
-            }
+        
             
         }
         
         //Test Yourself
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
             
             withAnimation {
                 
                 self.showTestYourSelf.toggle()
             }
         }
+        
+        //All Dictionary
+               DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+                   
+                   withAnimation {
+                       
+                       self.showDictionaryStats.toggle()
+                   }
+               }
         
     }
 }

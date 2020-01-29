@@ -20,6 +20,7 @@
 		0339B09F23DC5E08000CBB0D /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B09E23DC5E08000CBB0D /* MainMenu.swift */; };
 		0339B0A123DCC98F000CBB0D /* FilteredDictionaryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */; };
 		0339B0A323DDFAA5000CBB0D /* FilteredWordSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */; };
+		0339B0A923E0E233000CBB0D /* SelfWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A823E0E233000CBB0D /* SelfWordTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		0339B09E23DC5E08000CBB0D /* MainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
 		0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredDictionaryList.swift; sourceTree = "<group>"; };
 		0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredWordSearch.swift; sourceTree = "<group>"; };
+		0339B0A823E0E233000CBB0D /* SelfWordTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfWordTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				0339B09E23DC5E08000CBB0D /* MainMenu.swift */,
 				0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */,
 				0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */,
+				0339B0A823E0E233000CBB0D /* SelfWordTest.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0339B0A123DCC98F000CBB0D /* FilteredDictionaryList.swift in Sources */,
+				0339B0A923E0E233000CBB0D /* SelfWordTest.swift in Sources */,
 				0339B07423DA1E4C000CBB0D /* AppDelegate.swift in Sources */,
 				0339B09D23DBCBB2000CBB0D /* ListDictionary.swift in Sources */,
 				0339B09F23DC5E08000CBB0D /* MainMenu.swift in Sources */,
@@ -339,7 +343,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ufookoro-me.com.LanguageTranslator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -358,7 +362,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ufookoro-me.com.LanguageTranslator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
