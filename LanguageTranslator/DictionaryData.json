@@ -3096,9 +3096,3237 @@
       "Urhobo": "Jesutekevwe"
    },
    {
-      "id": 518,
+        "﻿id": 518,
+        "Category": "Phrases",
+        "English": "grasshopper",
+        "Urhobo": "abaka  "
+     },
+   {
+      "﻿id": 519,
       "Category": "Phrases",
-      "English": "Let me talk",
-      "Urhobo": "Jimitota "
+      "English": "equal",
+      "Urhobo": "abavo  "
+   },
+   {
+      "﻿id": 520,
+      "Category": "Phrases",
+      "English": "guilt (in a case or law-suit)",
+      "Urhobo": "abé  "
+   },
+   {
+      "﻿id": 521,
+      "Category": "Phrases",
+      "English": "wrestling",
+      "Urhobo": "abémuó  "
+   },
+   {
+      "﻿id": 522,
+      "Category": "Phrases",
+      "English": "thrice",
+      "Urhobo": "abérha  "
+   },
+   {
+      "﻿id": 523,
+      "Category": "Phrases",
+      "English": "sword",
+      "Urhobo": "abẹrẹn  "
+   },
+   {
+      "﻿id": 524,
+      "Category": "Phrases",
+      "English": "twice",
+      "Urhobo": "abívẹ  "
+   },
+   {
+      "﻿id": 525,
+      "Category": "Phrases",
+      "English": "forked stick",
+      "Urhobo": "áda1  "
+   },
+   {
+      "﻿id": 526,
+      "Category": "Phrases",
+      "English": "outing",
+      "Urhobo": "ada2  "
+   },
+   {
+      "﻿id": 527,
+      "Category": "Phrases",
+      "English": "three-way junction",
+      "Urhobo": "adérha  "
+   },
+   {
+      "﻿id": 528,
+      "Category": "Phrases",
+      "English": "position/part",
+      "Urhobo": "ádié  "
+   },
+   {
+      "﻿id": 529,
+      "Category": "Phrases",
+      "English": "bat",
+      "Urhobo": "adján  "
+   },
+   {
+      "﻿id": 530,
+      "Category": "Phrases",
+      "English": "camphor",
+      "Urhobo": "ádjeghwọghwọ  "
+   },
+   {
+      "﻿id": 531,
+      "Category": "Phrases",
+      "English": "self acclaimed witch or wizard",
+      "Urhobo": "adjené  "
+   },
+   {
+      "﻿id": 532,
+      "Category": "Phrases",
+      "English": "pants",
+      "Urhobo": "ádjọkrótẹgba  "
+   },
+   {
+      "﻿id": 533,
+      "Category": "Phrases",
+      "English": "fan",
+      "Urhobo": "adjudju  "
+   },
+   {
+      "﻿id": 534,
+      "Category": "Phrases",
+      "English": "wheel",
+      "Urhobo": "adjugẹ  "
+   },
+   {
+      "﻿id": 535,
+      "Category": "Phrases",
+      "English": "menstruation",
+      "Urhobo": "áfe  "
+   },
+   {
+      "﻿id": 536,
+      "Category": "Phrases",
+      "English": "stadium, playground",
+      "Urhobo": "áfiéha  "
+   },
+   {
+      "﻿id": 537,
+      "Category": "Phrases",
+      "English": "masquerade playground",
+      "Urhobo": "áfiédjọ  "
+   },
+   {
+      "﻿id": 538,
+      "Category": "Phrases",
+      "English": "rabbit",
+      "Urhobo": "afiotọ  "
+   },
+   {
+      "﻿id": 539,
+      "Category": "Phrases",
+      "English": "brain",
+      "Urhobo": "afọrhe  "
+   },
+   {
+      "﻿id": 540,
+      "Category": "Phrases",
+      "English": "crotch, area between the legs",
+      "Urhobo": "agada  "
+   },
+   {
+      "﻿id": 541,
+      "Category": "Phrases",
+      "English": "gong, bell",
+      "Urhobo": "ágógó  "
+   },
+   {
+      "﻿id": 542,
+      "Category": "Phrases",
+      "English": "camp, temporary settlement",
+      "Urhobo": "agọ  "
+   },
+   {
+      "﻿id": 543,
+      "Category": "Phrases",
+      "English": "court",
+      "Urhobo": "aguare  "
+   },
+   {
+      "﻿id": 544,
+      "Category": "Phrases",
+      "English": "oil bean seed",
+      "Urhobo": "agbá (ogba)  "
+   },
+   {
+      "﻿id": 545,
+      "Category": "Phrases",
+      "English": "bridge",
+      "Urhobo": "agbada  "
+   },
+   {
+      "﻿id": 546,
+      "Category": "Phrases",
+      "English": "altar",
+      "Urhobo": "agbadarizobo  "
+   },
+   {
+      "﻿id": 547,
+      "Category": "Phrases",
+      "English": "cross",
+      "Urhobo": "agbagba  "
+   },
+   {
+      "﻿id": 548,
+      "Category": "Phrases",
+      "English": "raffia and oil-palm beetle",
+      "Urhobo": "agbakara"
+   },
+   {
+      "﻿id": 549,
+      "Category": "Phrases",
+      "English": " chair",
+      "Urhobo": "agbara "
+   },
+   {
+      "﻿id": 550,
+      "Category": "Phrases",
+      "English": "dagger",
+      "Urhobo": "agbogu  "
+   },
+   {
+      "﻿id": 551,
+      "Category": "Phrases",
+      "English": "echo",
+      "Urhobo": "agboro  "
+   },
+   {
+      "﻿id": 552,
+      "Category": "Phrases",
+      "English": "chin",
+      "Urhobo": "agbótọ  "
+   },
+   {
+      "﻿id": 553,
+      "Category": "Phrases",
+      "English": "matches",
+      "Urhobo": "agbuna  "
+   },
+   {
+      "﻿id": 554,
+      "Category": "Phrases",
+      "English": "thunder",
+      "Urhobo": "agbrara  "
+   },
+   {
+      "﻿id": 555,
+      "Category": "Phrases",
+      "English": "broom",
+      "Urhobo": "aghán  "
+   },
+   {
+      "﻿id": 556,
+      "Category": "Phrases",
+      "English": "chain of coral beads worn round the neck by chiefs",
+      "Urhobo": "aghighọn  "
+   },
+   {
+      "﻿id": 557,
+      "Category": "Phrases",
+      "English": "joy/happiness",
+      "Urhobo": "aghọghọ  "
+   },
+   {
+      "﻿id": 558,
+      "Category": "Phrases",
+      "English": "bush",
+      "Urhobo": "ághwá  "
+   },
+   {
+      "﻿id": 559,
+      "Category": "Phrases",
+      "English": "bush dog",
+      "Urhobo": "aghwaghwa  "
+   },
+   {
+      "﻿id": 560,
+      "Category": "Phrases",
+      "English": "wisdom",
+      "Urhobo": "aghware  "
+   },
+   {
+      "﻿id": 561,
+      "Category": "Phrases",
+      "English": "hamster",
+      "Urhobo": "aghwọn  "
+   },
+   {
+      "﻿id": 562,
+      "Category": "Phrases",
+      "English": "announcement",
+      "Urhobo": "aghwoghwo  "
+   },
+   {
+      "﻿id": 563,
+      "Category": "Phrases",
+      "English": "owl-like bird",
+      "Urhobo": "áhe  "
+   },
+   {
+      "﻿id": 564,
+      "Category": "Phrases",
+      "English": "sound of snoring",
+      "Urhobo": "ahọnre  "
+   },
+   {
+      "﻿id": 565,
+      "Category": "Phrases",
+      "English": "pliers",
+      "Urhobo": "ahwa  "
+   },
+   {
+      "﻿id": 566,
+      "Category": "Phrases",
+      "English": "sponge",
+      "Urhobo": "ahworhẹ  "
+   },
+   {
+      "﻿id": 567,
+      "Category": "Phrases",
+      "English": "Urhobo name for the Edo (Bini) people and their language",
+      "Urhobo": "aka1  "
+   },
+   {
+      "﻿id": 568,
+      "Category": "Phrases",
+      "English": "bitter kola",
+      "Urhobo": "ákán2  "
+   },
+   {
+      "﻿id": 569,
+      "Category": "Phrases",
+      "English": "specie of gong",
+      "Urhobo": "akaba  "
+   },
+   {
+      "﻿id": 570,
+      "Category": "Phrases",
+      "English": "snake monitor",
+      "Urhobo": "akaínọrọ  "
+   },
+   {
+      "﻿id": 571,
+      "Category": "Phrases",
+      "English": "bean-cake",
+      "Urhobo": "akara  "
+   },
+   {
+      "﻿id": 572,
+      "Category": "Phrases",
+      "English": "metal trap used for catching small animals such as rats",
+      "Urhobo": "akobẹ  "
+   },
+   {
+      "﻿id": 573,
+      "Category": "Phrases",
+      "English": "office",
+      "Urhobo": "akoríruo  "
+   },
+   {
+      "﻿id": 574,
+      "Category": "Phrases",
+      "English": "wooden slit-gong",
+      "Urhobo": "akuakua  "
+   },
+   {
+      "﻿id": 575,
+      "Category": "Phrases",
+      "English": "scorpion",
+      "Urhobo": "akpakpasímagha  "
+   },
+   {
+      "﻿id": 576,
+      "Category": "Phrases",
+      "English": "baldness, bald head",
+      "Urhobo": "akpan  "
+   },
+   {
+      "﻿id": 577,
+      "Category": "Phrases",
+      "English": "stool",
+      "Urhobo": "ákpánurhé  "
+   },
+   {
+      "﻿id": 578,
+      "Category": "Phrases",
+      "English": "mouth-organ, organ",
+      "Urhobo": "ákpátá  "
+   },
+   {
+      "﻿id": 579,
+      "Category": "Phrases",
+      "English": "way of life",
+      "Urhobo": "akpéyéré  "
+   },
+   {
+      "﻿id": 580,
+      "Category": "Phrases",
+      "English": "thanksgiving",
+      "Urhobo": "ákpẹvwẹ  "
+   },
+   {
+      "﻿id": 581,
+      "Category": "Phrases",
+      "English": "very flat bead made from rubber or palm kernel shells",
+      "Urhobo": "akpóno  "
+   },
+   {
+      "﻿id": 582,
+      "Category": "Phrases",
+      "English": "world",
+      "Urhobo": "akpọ1  "
+   },
+   {
+      "﻿id": 583,
+      "Category": "Phrases",
+      "English": "life",
+      "Urhobo": "akpọ2  "
+   },
+   {
+      "﻿id": 584,
+      "Category": "Phrases",
+      "English": "small lizard",
+      "Urhobo": "akrẹ  "
+   },
+   {
+      "﻿id": 585,
+      "Category": "Phrases",
+      "English": "bell",
+      "Urhobo": "ama  "
+   },
+   {
+      "﻿id": 586,
+      "Category": "Phrases",
+      "English": "angel",
+      "Urhobo": "ámakáshe  "
+   },
+   {
+      "﻿id": 587,
+      "Category": "Phrases",
+      "English": "water",
+      "Urhobo": "ame  "
+   },
+   {
+      "﻿id": 588,
+      "Category": "Phrases",
+      "English": "locally brewed gin, ogogoro",
+      "Urhobo": "amereka  "
+   },
+   {
+      "﻿id": 589,
+      "Category": "Phrases",
+      "English": "groundnut oil",
+      "Urhobo": "amerísaguẹ  "
+   },
+   {
+      "﻿id": 590,
+      "Category": "Phrases",
+      "English": "banga soup",
+      "Urhobo": "amiédi "
+   },
+   {
+      "﻿id": 591,
+      "Category": "Phrases",
+      "English": "tears",
+      "Urhobo": "amióviẹ  "
+   },
+   {
+      "﻿id": 592,
+      "Category": "Phrases",
+      "English": "who (coll.)",
+      "Urhobo": "amóno int. "
+   },
+   {
+      "﻿id": 593,
+      "Category": "Phrases",
+      "English": "charm for protection against the dead",
+      "Urhobo": "ámrádjẹ  "
+   },
+   {
+      "﻿id": 594,
+      "Category": "Phrases",
+      "English": "cloth",
+      "Urhobo": "amwá  "
+   },
+   {
+      "﻿id": 595,
+      "Category": "Phrases",
+      "English": "pride",
+      "Urhobo": "anama  "
+   },
+   {
+      "﻿id": 596,
+      "Category": "Phrases",
+      "English": "April",
+      "Urhobo": "ané  "
+   },
+   {
+      "﻿id": 597,
+      "Category": "Phrases",
+      "English": "lower wrapper (of the two) worn by women",
+      "Urhobo": "anikú (otéhú)  "
+   },
+   {
+      "﻿id": 598,
+      "Category": "Phrases",
+      "English": "old coin, originally a tenth of a penny",
+      "Urhobo": "áníní  "
+   },
+   {
+      "﻿id": 599,
+      "Category": "Phrases",
+      "English": "draughts",
+      "Urhobo": "apene  "
+   },
+   {
+      "﻿id": 600,
+      "Category": "Phrases",
+      "English": "hornbill",
+      "Urhobo": "ápiápiá  "
+   },
+   {
+      "﻿id": 601,
+      "Category": "Phrases",
+      "English": "knife",
+      "Urhobo": "aphia  "
+   },
+   {
+      "﻿id": 602,
+      "Category": "Phrases",
+      "English": "very poisonous seed",
+      "Urhobo": "areba  "
+   },
+   {
+      "﻿id": 603,
+      "Category": "Phrases",
+      "English": "baby louse",
+      "Urhobo": "arere  "
+   },
+   {
+      "﻿id": 604,
+      "Category": "Phrases",
+      "English": "charm for protection against any poisonous",
+      "Urhobo": "áriákpa  "
+   },
+   {
+      "﻿id": 605,
+      "Category": "Phrases",
+      "English": "charm for sharp remembrance/knowledge",
+      "Urhobo": "arido  "
+   },
+   {
+      "﻿id": 606,
+      "Category": "Phrases",
+      "English": "fishing net",
+      "Urhobo": "árírí  "
+   },
+   {
+      "﻿id": 607,
+      "Category": "Phrases",
+      "English": "designated spot where traditional rites are offered to the ancestors",
+      "Urhobo": "aruérivwi  "
+   },
+   {
+      "﻿id": 608,
+      "Category": "Phrases",
+      "English": "mercy",
+      "Urhobo": "aruẹdọ  "
+   },
+   {
+      "﻿id": 609,
+      "Category": "Phrases",
+      "English": "prophesy",
+      "Urhobo": "aruẹmrẹ  "
+   },
+   {
+      "﻿id": 610,
+      "Category": "Phrases",
+      "English": "March",
+      "Urhobo": "arhá  "
+   },
+   {
+      "﻿id": 611,
+      "Category": "Phrases",
+      "English": "forehead",
+      "Urhobo": "arhare (ekorhi)  "
+   },
+   {
+      "﻿id": 612,
+      "Category": "Phrases",
+      "English": "salvation",
+      "Urhobo": "arhọ  "
+   },
+   {
+      "﻿id": 613,
+      "Category": "Phrases",
+      "English": "special bead worn on the neck like a bow-tie by traditional rulers",
+      "Urhobo": "árhọvwefe  "
+   },
+   {
+      "﻿id": 614,
+      "Category": "Phrases",
+      "English": "development",
+      "Urhobo": "árhuẹrẹ  "
+   },
+   {
+      "﻿id": 615,
+      "Category": "Phrases",
+      "English": "place",
+      "Urhobo": "asa1  "
+   },
+   {
+      "﻿id": 616,
+      "Category": "Phrases",
+      "English": "bird with red beak that bores hole in the pit",
+      "Urhobo": "asá2  "
+   },
+   {
+      "﻿id": 617,
+      "Category": "Phrases",
+      "English": "June",
+      "Urhobo": "asán3  "
+   },
+   {
+      "﻿id": 618,
+      "Category": "Phrases",
+      "English": "abattoir",
+      "Urhobo": "asadáveravwe  "
+   },
+   {
+      "﻿id": 619,
+      "Category": "Phrases",
+      "English": "acquittal",
+      "Urhobo": "asé1  "
+   },
+   {
+      "﻿id": 620,
+      "Category": "Phrases",
+      "English": "odd",
+      "Urhobo": "asén2  "
+   },
+   {
+      "﻿id": 621,
+      "Category": "Phrases",
+      "English": "everywhere",
+      "Urhobo": "aseje  "
+   },
+   {
+      "﻿id": 622,
+      "Category": "Phrases",
+      "English": "mamba",
+      "Urhobo": "ásiweri  "
+   },
+   {
+      "﻿id": 623,
+      "Category": "Phrases",
+      "English": "night",
+      "Urhobo": "aso  "
+   },
+   {
+      "﻿id": 624,
+      "Category": "Phrases",
+      "English": "charm for effective balance",
+      "Urhobo": "atámu  "
+   },
+   {
+      "﻿id": 625,
+      "Category": "Phrases",
+      "English": "it is said",
+      "Urhobo": "atánẹ exp. "
+   },
+   {
+      "﻿id": 626,
+      "Category": "Phrases",
+      "English": "charm for easy acceptance/answer",
+      "Urhobo": "átárhọvwe  "
+   },
+   {
+      "﻿id": 627,
+      "Category": "Phrases",
+      "English": "tray, flat basin (made locally from a plant called éti)",
+      "Urhobo": "atẹtẹ (akpata)  "
+   },
+   {
+      "﻿id": 628,
+      "Category": "Phrases",
+      "English": "rumour monger",
+      "Urhobo": "atikprere  "
+   },
+   {
+      "﻿id": 629,
+      "Category": "Phrases",
+      "English": "chewing stick",
+      "Urhobo": "ató1  "
+   },
+   {
+      "﻿id": 630,
+      "Category": "Phrases",
+      "English": "savanna",
+      "Urhobo": "aton2  "
+   },
+   {
+      "﻿id": 631,
+      "Category": "Phrases",
+      "English": "February",
+      "Urhobo": "avá  "
+   },
+   {
+      "﻿id": 632,
+      "Category": "Phrases",
+      "English": "armpit",
+      "Urhobo": "áviávwe (aviẹn)  "
+   },
+   {
+      "﻿id": 633,
+      "Category": "Phrases",
+      "English": "we",
+      "Urhobo": "avwáre1 pro "
+   },
+   {
+      "﻿id": 634,
+      "Category": "Phrases",
+      "English": "us",
+      "Urhobo": "avwárẹn2 pro "
+   },
+   {
+      "﻿id": 635,
+      "Category": "Phrases",
+      "English": "wide",
+      "Urhobo": "avware3  "
+   },
+   {
+      "﻿id": 636,
+      "Category": "Phrases",
+      "English": "charm for lightness",
+      "Urhobo": "ávwárhé  "
+   },
+   {
+      "﻿id": 637,
+      "Category": "Phrases",
+      "English": "favourite (e.g. wife)",
+      "Urhobo": "ávwebọ  "
+   },
+   {
+      "﻿id": 638,
+      "Category": "Phrases",
+      "English": "sweetness",
+      "Urhobo": "avwerhe  "
+   },
+   {
+      "﻿id": 639,
+      "Category": "Phrases",
+      "English": "flag",
+      "Urhobo": "avwiana  "
+   },
+   {
+      "﻿id": 640,
+      "Category": "Phrases",
+      "English": "charm for postponing evil days such as death",
+      "Urhobo": "ávwíkpe  "
+   },
+   {
+      "﻿id": 641,
+      "Category": "Phrases",
+      "English": "wife always treated with disdain by the husband",
+      "Urhobo": "ávwiórọvwe  "
+   },
+   {
+      "﻿id": 642,
+      "Category": "Phrases",
+      "English": "rainbow",
+      "Urhobo": "ávworo  "
+   },
+   {
+      "﻿id": 643,
+      "Category": "Phrases",
+      "English": "gill",
+      "Urhobo": "avwré (ẹrọ)  "
+   },
+   {
+      "﻿id": 644,
+      "Category": "Phrases",
+      "English": "argument",
+      "Urhobo": "avwro  "
+   },
+   {
+      "﻿id": 645,
+      "Category": "Phrases",
+      "English": "hour",
+      "Urhobo": "awa  "
+   },
+   {
+      "﻿id": 646,
+      "Category": "Phrases",
+      "English": "ancient",
+      "Urhobo": "aware  "
+   },
+   {
+      "﻿id": 647,
+      "Category": "Phrases",
+      "English": "Urhobo name for the Hausa people and their language",
+      "Urhobo": "áwúsá  "
+   },
+   {
+      "﻿id": 648,
+      "Category": "Phrases",
+      "English": "basket used by women in fishing",
+      "Urhobo": "ayarọ  "
+   },
+   {
+      "﻿id": 649,
+      "Category": "Phrases",
+      "English": "exp meet you well (i.e. at table)",
+      "Urhobo": "ayávwa "
+   },
+   {
+      "﻿id": 650,
+      "Category": "Phrases",
+      "English": "woman",
+      "Urhobo": "aye1  "
+   },
+   {
+      "﻿id": 651,
+      "Category": "Phrases",
+      "English": "they",
+      "Urhobo": "ayen2 pro "
+   },
+   {
+      "﻿id": 652,
+      "Category": "Phrases",
+      "English": "them",
+      "Urhobo": "áyen3 pro "
+   },
+   {
+      "﻿id": 653,
+      "Category": "Phrases",
+      "English": "Mrs.",
+      "Urhobo": "ayerórọvwe  "
+   },
+   {
+      "﻿id": 654,
+      "Category": "Phrases",
+      "English": "housewife",
+      "Urhobo": "ayerúwevwi  "
+   },
+   {
+      "﻿id": 655,
+      "Category": "Phrases",
+      "English": "pregnant woman",
+      "Urhobo": "ayevevu  "
+   },
+   {
+      "﻿id": 656,
+      "Category": "Phrases",
+      "English": "pressing iron",
+      "Urhobo": "ayọni  "
+   },
+   {
+      "﻿id": 657,
+      "Category": "Phrases",
+      "English": "public place",
+      "Urhobo": "azagba (asotu)  "
+   },
+   {
+      "﻿id": 658,
+      "Category": "Phrases",
+      "English": "spirit roaming in the forest which gives rise to whirlwind",
+      "Urhobo": "aziza  "
+   },
+   {
+      "﻿id": 659,
+      "Category": "Phrases",
+      "English": "be loose (of a baby carried on the back)",
+      "Urhobo": "bá "
+   },
+   {
+      "﻿id": 660,
+      "Category": "Phrases",
+      "English": "never",
+      "Urhobo": "bẹdẹ adv. "
+   },
+   {
+      "﻿id": 661,
+      "Category": "Phrases",
+      "English": "forever, continuously (of time)",
+      "Urhobo": "bẹdẹbẹdẹ (rhirírín) "
+   },
+   {
+      "﻿id": 662,
+      "Category": "Phrases",
+      "English": "romance",
+      "Urhobo": "bẹnẹ  "
+   },
+   {
+      "﻿id": 663,
+      "Category": "Phrases",
+      "English": "until",
+      "Urhobo": "bẹsiẹye conj. "
+   },
+   {
+      "﻿id": 664,
+      "Category": "Phrases",
+      "English": "push",
+      "Urhobo": "bi (gere)  "
+   },
+   {
+      "﻿id": 665,
+      "Category": "Phrases",
+      "English": "grope,roam aimlessly",
+      "Urhobo": "bibi  "
+   },
+   {
+      "﻿id": 666,
+      "Category": "Phrases",
+      "English": "black",
+      "Urhobo": "biebí  "
+   },
+   {
+      "﻿id": 667,
+      "Category": "Phrases",
+      "English": "please",
+      "Urhobo": "biko  "
+   },
+   {
+      "﻿id": 668,
+      "Category": "Phrases",
+      "English": "make way for",
+      "Urhobo": "bioma  "
+   },
+   {
+      "﻿id": 669,
+      "Category": "Phrases",
+      "English": "crow",
+      "Urhobo": "bo1  "
+   },
+   {
+      "﻿id": 670,
+      "Category": "Phrases",
+      "English": "swim (of fish)",
+      "Urhobo": "bo2  "
+   },
+   {
+      "﻿id": 671,
+      "Category": "Phrases",
+      "English": "build",
+      "Urhobo": "bọ (tẹ)  "
+   },
+   {
+      "﻿id": 672,
+      "Category": "Phrases",
+      "English": "comfort",
+      "Urhobo": "bọrọ  "
+   },
+   {
+      "﻿id": 673,
+      "Category": "Phrases",
+      "English": "warm",
+      "Urhobo": "bọrọbọrọ  "
+   },
+   {
+      "﻿id": 674,
+      "Category": "Phrases",
+      "English": "be plentiful",
+      "Urhobo": "bu  "
+   },
+   {
+      "﻿id": 675,
+      "Category": "Phrases",
+      "English": "awkward, clumsy",
+      "Urhobo": "búbú  "
+   },
+   {
+      "﻿id": 676,
+      "Category": "Phrases",
+      "English": "scrape",
+      "Urhobo": "bue  "
+   },
+   {
+      "﻿id": 677,
+      "Category": "Phrases",
+      "English": "many",
+      "Urhobo": "buebu quant. "
+   },
+   {
+      "﻿id": 678,
+      "Category": "Phrases",
+      "English": "too many/much",
+      "Urhobo": "búnọ  "
+   },
+   {
+      "﻿id": 679,
+      "Category": "Phrases",
+      "English": "bad",
+      "Urhobo": "brabra "
+   },
+   {
+      "﻿id": 680,
+      "Category": "Phrases",
+      "English": "how many?",
+      "Urhobo": "bró1  "
+   },
+   {
+      "﻿id": 681,
+      "Category": "Phrases",
+      "English": "how much?",
+      "Urhobo": "bró2  "
+   },
+   {
+      "﻿id": 682,
+      "Category": "Phrases",
+      "English": "cut",
+      "Urhobo": "bru  "
+   },
+   {
+      "﻿id": 683,
+      "Category": "Phrases",
+      "English": "worry (about/over something)",
+      "Urhobo": "brúdú  "
+   },
+   {
+      "﻿id": 684,
+      "Category": "Phrases",
+      "English": "advise",
+      "Urhobo": "brúche  "
+   },
+   {
+      "﻿id": 685,
+      "Category": "Phrases",
+      "English": "ch",
+      "Urhobo": "CH "
+   },
+   {
+      "﻿id": 686,
+      "Category": "Phrases",
+      "English": "support/aid",
+      "Urhobo": "chá  "
+   },
+   {
+      "﻿id": 687,
+      "Category": "Phrases",
+      "English": "screw",
+      "Urhobo": "chavwọ  "
+   },
+   {
+      "﻿id": 688,
+      "Category": "Phrases",
+      "English": "cook",
+      "Urhobo": "chere  "
+   },
+   {
+      "﻿id": 689,
+      "Category": "Phrases",
+      "English": "tread (on something)",
+      "Urhobo": "chiyi  "
+   },
+   {
+      "﻿id": 690,
+      "Category": "Phrases",
+      "English": "steal",
+      "Urhobo": "cho  "
+   },
+   {
+      "﻿id": 691,
+      "Category": "Phrases",
+      "English": "help",
+      "Urhobo": "chúko  "
+   },
+   {
+      "﻿id": 692,
+      "Category": "Phrases",
+      "English": "drink",
+      "Urhobo": "da  "
+   },
+   {
+      "﻿id": 693,
+      "Category": "Phrases",
+      "English": "sharp",
+      "Urhobo": "dádá "
+   },
+   {
+       "﻿id": 694,
+       "Category": "Phrases",
+       "English": "welcome",
+       "Urhobo": "dede  "
+   },
+   {
+       "﻿id": 695,
+       "Category": "Phrases",
+       "English": "nevertheless",
+       "Urhobo": "dédévwo conj "
+   },
+   {
+       "﻿id": 696,
+       "Category": "Phrases",
+       "English": "buy",
+       "Urhobo": "dẹ  "
+   },
+   {
+       "﻿id": 697,
+       "Category": "Phrases",
+       "English": "block",
+       "Urhobo": "di  "
+   },
+   {
+       "﻿id": 698,
+       "Category": "Phrases",
+       "English": "menstruate",
+       "Urhobo": "dia  "
+   },
+   {
+       "﻿id": 699,
+       "Category": "Phrases",
+       "English": "what",
+       "Urhobo": "dié  "
+   },
+   {
+       "﻿id": 700,
+       "Category": "Phrases",
+       "English": "request one to say",
+       "Urhobo": "diguẹ  "
+   },
+   {
+      "﻿id": 701,
+      "Category": "Phrases",
+      "English": "nearly",
+      "Urhobo": "dino  "
+   },
+   {
+      "﻿id": 702,
+      "Category": "Phrases",
+      "English": "thank, Phrases greeting which expresses variety of sentiments",
+      "Urhobo": "do1  "
+   },
+   {
+      "﻿id": 703,
+      "Category": "Phrases",
+      "English": "throw",
+      "Urhobo": "dó2 (vwi)  "
+   },
+   {
+      "﻿id": 704,
+      "Category": "Phrases",
+      "English": "slack",
+      "Urhobo": "doghodogho "
+   },
+   {
+      "﻿id": 705,
+      "Category": "Phrases",
+      "English": "lean/thin",
+      "Urhobo": "dọdọn "
+   },
+   {
+      "﻿id": 706,
+      "Category": "Phrases",
+      "English": "mate",
+      "Urhobo": "du  "
+   },
+   {
+      "﻿id": 707,
+      "Category": "Phrases",
+      "English": "pound",
+      "Urhobo": "duvwu  "
+   },
+   {
+      "﻿id": 708,
+      "Category": "Phrases",
+      "English": "dj",
+      "Urhobo": "Dj "
+   },
+   {
+      "﻿id": 709,
+      "Category": "Phrases",
+      "English": "peppery",
+      "Urhobo": "djádjá "
+   },
+   {
+      "﻿id": 710,
+      "Category": "Phrases",
+      "English": "hide",
+      "Urhobo": "djávwe (sínu)  "
+   },
+   {
+      "﻿id": 711,
+      "Category": "Phrases",
+      "English": "show/explain",
+      "Urhobo": "djé1  "
+   },
+   {
+      "﻿id": 712,
+      "Category": "Phrases",
+      "English": "spray (somebody with medicine by mouth)",
+      "Urhobo": "dje2  "
+   },
+   {
+      "﻿id": 713,
+      "Category": "Phrases",
+      "English": "run",
+      "Urhobo": "djẹ1  "
+   },
+   {
+      "﻿id": 714,
+      "Category": "Phrases",
+      "English": "germinate",
+      "Urhobo": "djẹ3  "
+   },
+   {
+      "﻿id": 715,
+      "Category": "Phrases",
+      "English": "foolish",
+      "Urhobo": "djídjí1 (ghẹghẹ) "
+   },
+   {
+      "﻿id": 716,
+      "Category": "Phrases",
+      "English": "foolishly",
+      "Urhobo": "djídjí2  "
+   },
+   {
+      "﻿id": 717,
+      "Category": "Phrases",
+      "English": "introduce (oneself to)",
+      "Urhobo": "djoma  "
+   },
+   {
+      "﻿id": 718,
+      "Category": "Phrases",
+      "English": "fan",
+      "Urhobo": "dju  "
+   },
+   {
+      "﻿id": 719,
+      "Category": "Phrases",
+      "English": "yes, response to most greetings and directives",
+      "Urhobo": "e part "
+   },
+   {
+      "﻿id": 720,
+      "Category": "Phrases",
+      "English": "woven native bag made of raffia palm",
+      "Urhobo": "ébo1  "
+   },
+   {
+      "﻿id": 721,
+      "Category": "Phrases",
+      "English": "act of crowing",
+      "Urhobo": "ebó2  "
+   },
+   {
+      "﻿id": 722,
+      "Category": "Phrases",
+      "English": "darkness",
+      "Urhobo": "ébri (okuku) (eghó)  "
+   },
+   {
+      "﻿id": 723,
+      "Category": "Phrases",
+      "English": "act of cutting",
+      "Urhobo": "ebró "
+   },
+   {
+      "﻿id": 724,
+      "Category": "Phrases",
+      "English": "bad omen",
+      "Urhobo": "echa  "
+   },
+   {
+      "﻿id": 725,
+      "Category": "Phrases",
+      "English": "stealing",
+      "Urhobo": "echó  "
+   },
+   {
+      "﻿id": 726,
+      "Category": "Phrases",
+      "English": "reception/welcome",
+      "Urhobo": "edede  "
+   },
+   {
+      "﻿id": 727,
+      "Category": "Phrases",
+      "English": "patience",
+      "Urhobo": "ediri  "
+   },
+   {
+      "﻿id": 728,
+      "Category": "Phrases",
+      "English": "noise",
+      "Urhobo": "edo  "
+   },
+   {
+      "﻿id": 729,
+      "Category": "Phrases",
+      "English": "door frame",
+      "Urhobo": "edovi  "
+   },
+   {
+      "﻿id": 730,
+      "Category": "Phrases",
+      "English": "spider sp",
+      "Urhobo": "edjákekete  "
+   },
+   {
+      "﻿id": 731,
+      "Category": "Phrases",
+      "English": "peer",
+      "Urhobo": "edje1  "
+   },
+   {
+      "﻿id": 732,
+      "Category": "Phrases",
+      "English": "explanation/description",
+      "Urhobo": "édjé2  "
+   },
+   {
+      "﻿id": 733,
+      "Category": "Phrases",
+      "English": "crocodile",
+      "Urhobo": "edjere  "
+   },
+   {
+      "﻿id": 734,
+      "Category": "Phrases",
+      "English": "leopard, ‘tiger’",
+      "Urhobo": "edjenékpo"
+   },
+   {
+      "﻿id": 735,
+      "Category": "Phrases",
+      "English": "wealth",
+      "Urhobo": "efe  "
+   },
+   {
+      "﻿id": 736,
+      "Category": "Phrases",
+      "English": "wrapper",
+      "Urhobo": "efenudu  "
+   },
+   {
+      "﻿id": 737,
+      "Category": "Phrases",
+      "English": "bird sp",
+      "Urhobo": "eferifẹn  "
+   },
+   {
+      "﻿id": 738,
+      "Category": "Phrases",
+      "English": "fenced hidden place where masquerades and the like are dressed",
+      "Urhobo": "éfi1  "
+   },
+   {
+      "﻿id": 739,
+      "Category": "Phrases",
+      "English": "rope used by palm collector in climbing the palm tree",
+      "Urhobo": "efi2  "
+   },
+   {
+      "﻿id": 740,
+      "Category": "Phrases",
+      "English": "hob",
+      "Urhobo": "egaga  "
+   },
+   {
+      "﻿id": 741,
+      "Category": "Phrases",
+      "English": "glass for drinking wine",
+      "Urhobo": "eganase  "
+   },
+   {
+      "﻿id": 742,
+      "Category": "Phrases",
+      "English": "bowel",
+      "Urhobo": "égede  "
+   },
+   {
+      "﻿id": 743,
+      "Category": "Phrases",
+      "English": "storey building",
+      "Urhobo": "égenége (égedége)  "
+   },
+   {
+      "﻿id": 744,
+      "Category": "Phrases",
+      "English": "act of pushing",
+      "Urhobo": "egéré (ebió) v "
+   },
+   {
+      "﻿id": 745,
+      "Category": "Phrases",
+      "English": "kite",
+      "Urhobo": "égodi (ógodi)  "
+   },
+   {
+      "﻿id": 746,
+      "Category": "Phrases",
+      "English": "compound",
+      "Urhobo": "égodo (iyere)  "
+   },
+   {
+      "﻿id": 747,
+      "Category": "Phrases",
+      "English": "pounded yam",
+      "Urhobo": "egú  "
+   },
+   {
+      "﻿id": 748,
+      "Category": "Phrases",
+      "English": "jaw",
+      "Urhobo": "égba (ọhwa)  "
+   },
+   {
+      "﻿id": 749,
+      "Category": "Phrases",
+      "English": "needle",
+      "Urhobo": "egbedé1 (ukoti)  "
+   },
+   {
+      "﻿id": 750,
+      "Category": "Phrases",
+      "English": "injection",
+      "Urhobo": "egbedé2  "
+   },
+   {
+      "﻿id": 751,
+      "Category": "Phrases",
+      "English": "barrel once used for storing commercial oil for export",
+      "Urhobo": "egbedi  "
+   },
+   {
+      "﻿id": 752,
+      "Category": "Phrases",
+      "English": "preparation",
+      "Urhobo": "egbémuó  "
+   },
+   {
+      "﻿id": 753,
+      "Category": "Phrases",
+      "English": "charm for glorious dance",
+      "Urhobo": "égbésásá  "
+   },
+   {
+      "﻿id": 754,
+      "Category": "Phrases",
+      "English": "forest jungle",
+      "Urhobo": "égbó1  "
+   },
+   {
+      "﻿id": 755,
+      "Category": "Phrases",
+      "English": "ram",
+      "Urhobo": "egbo2  "
+   },
+   {
+      "﻿id": 756,
+      "Category": "Phrases",
+      "English": "Bahama grass",
+      "Urhobo": "egbrí  "
+   },
+   {
+      "﻿id": 757,
+      "Category": "Phrases",
+      "English": "wrapper worn by men",
+      "Urhobo": "egbru  "
+   },
+   {
+      "﻿id": 758,
+      "Category": "Phrases",
+      "English": "west",
+      "Urhobo": "eghanran (okún)  "
+   },
+   {
+      "﻿id": 759,
+      "Category": "Phrases",
+      "English": "young man",
+      "Urhobo": "éghene  "
+   },
+   {
+      "﻿id": 760,
+      "Category": "Phrases",
+      "English": "enmity",
+      "Urhobo": "éghre  "
+   },
+   {
+      "﻿id": 761,
+      "Category": "Phrases",
+      "English": "elbow",
+      "Urhobo": "éghróbọ  "
+   },
+   {
+      "﻿id": 762,
+      "Category": "Phrases",
+      "English": "ankle",
+      "Urhobo": "éghrówọ  "
+   },
+   {
+      "﻿id": 763,
+      "Category": "Phrases",
+      "English": "knee",
+      "Urhobo": "éghrúgbo  "
+   },
+   {
+      "﻿id": 764,
+      "Category": "Phrases",
+      "English": "funnel",
+      "Urhobo": "éghwo (ághwo)  "
+   },
+   {
+      "﻿id": 765,
+      "Category": "Phrases",
+      "English": "massage",
+      "Urhobo": "eghwóro  "
+   },
+   {
+      "﻿id": 766,
+      "Category": "Phrases",
+      "English": "clothes’ moth",
+      "Urhobo": "eghwọghwọ  "
+   },
+   {
+      "﻿id": 767,
+      "Category": "Phrases",
+      "English": "chameleon",
+      "Urhobo": "éghwughwẹ  "
+   },
+   {
+      "﻿id": 768,
+      "Category": "Phrases",
+      "English": "hoe",
+      "Urhobo": "eghwro (ọguotọ)  "
+   },
+   {
+      "﻿id": 769,
+      "Category": "Phrases",
+      "English": "dance",
+      "Urhobo": "éha1 (igbe)  "
+   },
+   {
+      "﻿id": 770,
+      "Category": "Phrases",
+      "English": "game, play",
+      "Urhobo": "éha2  "
+   },
+   {
+      "﻿id": 771,
+      "Category": "Phrases",
+      "English": "white sand",
+      "Urhobo": "éhapho  "
+   },
+   {
+      "﻿id": 772,
+      "Category": "Phrases",
+      "English": "umbrella",
+      "Urhobo": "charha (achicha)  "
+   },
+   {
+      "﻿id": 773,
+      "Category": "Phrases",
+      "English": "fine",
+      "Urhobo": "eho  "
+   },
+   {
+      "﻿id": 774,
+      "Category": "Phrases",
+      "English": "hidden place",
+      "Urhobo": "éhóhó  "
+   },
+   {
+      "﻿id": 775,
+      "Category": "Phrases",
+      "English": "waist",
+      "Urhobo": "éhún  "
+   },
+   {
+      "﻿id": 776,
+      "Category": "Phrases",
+      "English": "bat",
+      "Urhobo": "ehuhu  "
+   },
+   {
+      "﻿id": 777,
+      "Category": "Phrases",
+      "English": "sexual intercourse",
+      "Urhobo": "ehware  (coitus) "
+   },
+   {
+      "﻿id": 778,
+      "Category": "Phrases",
+      "English": "punishment, beating",
+      "Urhobo": "éhwé  "
+   },
+   {
+      "﻿id": 779,
+      "Category": "Phrases",
+      "English": "laughter",
+      "Urhobo": "ehwẹ  "
+   },
+   {
+      "﻿id": 780,
+      "Category": "Phrases",
+      "English": "swamp",
+      "Urhobo": "éhwọrhọ  "
+   },
+   {
+      "﻿id": 781,
+      "Category": "Phrases",
+      "English": "praise",
+      "Urhobo": "éjíro  "
+   },
+   {
+      "﻿id": 782,
+      "Category": "Phrases",
+      "English": "all/every",
+      "Urhobo": "ejóbi (eje)  "
+   },
+   {
+      "﻿id": 783,
+      "Category": "Phrases",
+      "English": "act of counting",
+      "Urhobo": "ekéré v "
+   },
+   {
+      "﻿id": 784,
+      "Category": "Phrases",
+      "English": "market",
+      "Urhobo": "eki  "
+   },
+   {
+      "﻿id": 785,
+      "Category": "Phrases",
+      "English": "raffia palm",
+      "Urhobo": "ékian  "
+   },
+   {
+      "﻿id": 786,
+      "Category": "Phrases",
+      "English": "sitting",
+      "Urhobo": "ékídia "
+   },
+   {
+      "﻿id": 787,
+      "Category": "Phrases",
+      "English": "sewing",
+      "Urhobo": "ekó  "
+   },
+   {
+      "﻿id": 788,
+      "Category": "Phrases",
+      "English": "area",
+      "Urhobo": "ekogho  "
+   },
+   {
+      "﻿id": 789,
+      "Category": "Phrases",
+      "English": "property",
+      "Urhobo": "ekuakua  "
+   },
+   {
+      "﻿id": 790,
+      "Category": "Phrases",
+      "English": "togetherness",
+      "Urhobo": "ékúgbé  "
+   },
+   {
+       "﻿id": 791,
+       "Category": "Phrases",
+       "English": "cold",
+       "Urhobo": "ekpahe  "
+    },
+   {
+      "﻿id": 793,
+      "Category": "Phrases",
+      "English": "fifty Naira (N50)",
+      "Urhobo": "iyorin p "
+   },
+   {
+      "﻿id": 794,
+      "Category": "Phrases",
+      "English": "skull",
+      "Urhobo": "ékpéhruyovwi  "
+   },
+   {
+      "﻿id": 795,
+      "Category": "Phrases",
+      "English": "shout/exclamation",
+      "Urhobo": "ékpéré"
+   },
+   {
+      "﻿id": 796,
+      "Category": "Phrases",
+      "English": "box",
+      "Urhobo": "ékpeti  "
+   },
+   {
+      "﻿id": 797,
+      "Category": "Phrases",
+      "English": "sand",
+      "Urhobo": "ékpé (orhu)  "
+   },
+   {
+      "﻿id": 798,
+      "Category": "Phrases",
+      "English": "bag/pocket",
+      "Urhobo": "ékpo (ékpu)  "
+   },
+   {
+      "﻿id": 799,
+      "Category": "Phrases",
+      "English": "thigh",
+      "Urhobo": "ékpóghówo  "
+   },
+   {
+      "﻿id": 800,
+      "Category": "Phrases",
+      "English": "act of dragging",
+      "Urhobo": "ekpono  "
+   },
+   {
+      "﻿id": 801,
+      "Category": "Phrases",
+      "English": "insect that builds a shelter of small pieces of wood round itself",
+      "Urhobo": "ekrirhékrẹbe  "
+   },
+   {
+      "﻿id": 802,
+      "Category": "Phrases",
+      "English": "family",
+      "Urhobo": "ékru1  "
+   },
+   {
+      "﻿id": 803,
+      "Category": "Phrases",
+      "English": "bundle",
+      "Urhobo": "ekru2  "
+   },
+   {
+      "﻿id": 804,
+      "Category": "Phrases",
+      "English": "dance done mainly by elderly people with the upper part of the body",
+      "Urhobo": "ema  "
+   },
+   {
+      "﻿id": 805,
+      "Category": "Phrases",
+      "English": "ground yam or plantain used for sacrifice",
+      "Urhobo": "emare  "
+   },
+   {
+      "﻿id": 806,
+      "Category": "Phrases",
+      "English": "act of plaiting (hair)",
+      "Urhobo": "emé1 v "
+   },
+   {
+      "﻿id": 807,
+      "Category": "Phrases",
+      "English": "twine",
+      "Urhobo": "emé2  "
+   },
+   {
+      "﻿id": 808,
+      "Category": "Phrases",
+      "English": "youth",
+      "Urhobo": "éméghene  "
+   },
+   {
+      "﻿id": 809,
+      "Category": "Phrases",
+      "English": "gently",
+      "Urhobo": "ememerha  "
+   },
+   {
+      "﻿id": 810,
+      "Category": "Phrases",
+      "English": "moon",
+      "Urhobo": "éméravwe1  "
+   },
+   {
+      "﻿id": 811,
+      "Category": "Phrases",
+      "English": "month",
+      "Urhobo": "éméravwe2  "
+   },
+   {
+      "﻿id": 812,
+      "Category": "Phrases",
+      "English": "little",
+      "Urhobo": "émérha  "
+   },
+   {
+      "﻿id": 813,
+      "Category": "Phrases",
+      "English": "food",
+      "Urhobo": "emu (emare)  "
+   },
+   {
+      "﻿id": 814,
+      "Category": "Phrases",
+      "English": "standing",
+      "Urhobo": "émúdia  "
+   },
+   {
+      "﻿id": 815,
+      "Category": "Phrases",
+      "English": "solidarity",
+      "Urhobo": "émúdiágá  "
+   },
+   {
+      "﻿id": 816,
+      "Category": "Phrases",
+      "English": "act of carrying",
+      "Urhobo": "emuó1 v "
+   },
+   {
+      "﻿id": 817,
+      "Category": "Phrases",
+      "English": "act of arresting",
+      "Urhobo": "emuó2 v "
+   },
+   {
+      "﻿id": 818,
+      "Category": "Phrases",
+      "English": "foodstuff",
+      "Urhobo": "emuore  "
+   },
+   {
+      "﻿id": 819,
+      "Category": "Phrases",
+      "English": "pineapple",
+      "Urhobo": "enanadja  "
+   },
+   {
+      "﻿id": 820,
+      "Category": "Phrases",
+      "English": "elephant",
+      "Urhobo": "eni1  "
+   },
+   {
+      "﻿id": 821,
+      "Category": "Phrases",
+      "English": "head-pad",
+      "Urhobo": "ení2  "
+   },
+   {
+      "﻿id": 822,
+      "Category": "Phrases",
+      "English": "hippopotamus",
+      "Urhobo": "eniáme"
+   },
+   {
+      "﻿id": 823,
+      "Category": "Phrases",
+      "English": "charm for the exclusive attention of one's husband or lover",
+      "Urhobo": "énivwọvo  "
+   },
+   {
+      "﻿id": 824,
+      "Category": "Phrases",
+      "English": "act of quitting",
+      "Urhobo": "enó1  "
+   },
+   {
+      "﻿id": 825,
+      "Category": "Phrases",
+      "English": "brightness",
+      "Urhobo": "énó2  "
+   },
+   {
+      "﻿id": 826,
+      "Category": "Phrases",
+      "English": "prep up/top",
+      "Urhobo": "énu (obénu) "
+   },
+   {
+      "﻿id": 827,
+      "Category": "Phrases",
+      "English": "act of grumbling",
+      "Urhobo": "enuebro  "
+   },
+   {
+      "﻿id": 828,
+      "Category": "Phrases",
+      "English": "ascension",
+      "Urhobo": "énuerá  "
+   },
+   {
+      "﻿id": 829,
+      "Category": "Phrases",
+      "English": "spittle",
+      "Urhobo": "enya  "
+   },
+   {
+      "﻿id": 830,
+      "Category": "Phrases",
+      "English": "half kobo (½k) [No longer in use]",
+      "Urhobo": "epini  "
+   },
+   {
+      "﻿id": 831,
+      "Category": "Phrases",
+      "English": "oracle, divination",
+      "Urhobo": "epha  "
+   },
+   {
+      "﻿id": 832,
+      "Category": "Phrases",
+      "English": "urine",
+      "Urhobo": "ephẹn  "
+   },
+   {
+      "﻿id": 833,
+      "Category": "Phrases",
+      "English": "ringworm",
+      "Urhobo": "ephẹphẹ (ephẹren)  "
+   },
+   {
+      "﻿id": 834,
+      "Category": "Phrases",
+      "English": "dog",
+      "Urhobo": "eráko  "
+   },
+   {
+      "﻿id": 835,
+      "Category": "Phrases",
+      "English": "crushed palm kernel fibre for making fire",
+      "Urhobo": "erán  "
+   },
+   {
+      "﻿id": 836,
+      "Category": "Phrases",
+      "English": "animal, meat",
+      "Urhobo": "eravwe  "
+   },
+   {
+      "﻿id": 837,
+      "Category": "Phrases",
+      "English": "kind of mat",
+      "Urhobo": "eré  "
+   },
+   {
+      "﻿id": 838,
+      "Category": "Phrases",
+      "English": "gain",
+      "Urhobo": "erere  "
+   },
+   {
+      "﻿id": 839,
+      "Category": "Phrases",
+      "English": "fish",
+      "Urhobo": "eri  "
+   },
+   {
+      "﻿id": 840,
+      "Category": "Phrases",
+      "English": "knowledge",
+      "Urhobo": "ériáriẹ  "
+   },
+   {
+      "﻿id": 841,
+      "Category": "Phrases",
+      "English": "over-feeding",
+      "Urhobo": "eriávọ  "
+   },
+   {
+      "﻿id": 842,
+      "Category": "Phrases",
+      "English": "land of the dead",
+      "Urhobo": "erivwi  "
+   },
+   {
+      "﻿id": 843,
+      "Category": "Phrases",
+      "English": "backbiting",
+      "Urhobo": "ero  "
+   },
+   {
+      "﻿id": 844,
+      "Category": "Phrases",
+      "English": "dove",
+      "Urhobo": "érurẹ  "
+   },
+   {
+      "﻿id": 845,
+      "Category": "Phrases",
+      "English": "three",
+      "Urhobo": "érha num "
+   },
+   {
+      "﻿id": 846,
+      "Category": "Phrases",
+      "English": "fire",
+      "Urhobo": "erhare1  "
+   },
+   {
+      "﻿id": 847,
+      "Category": "Phrases",
+      "English": "hell",
+      "Urhobo": "erhare2  "
+   },
+   {
+      "﻿id": 848,
+      "Category": "Phrases",
+      "English": "kind of spice",
+      "Urhobo": "érhe1  "
+   },
+   {
+      "﻿id": 849,
+      "Category": "Phrases",
+      "English": "yawn",
+      "Urhobo": "érhe2  "
+   },
+   {
+      "﻿id": 850,
+      "Category": "Phrases",
+      "English": "ceiling",
+      "Urhobo": "erherin  "
+   },
+   {
+      "﻿id": 851,
+      "Category": "Phrases",
+      "English": "soul/spirit",
+      "Urhobo": "erhi1  "
+   },
+   {
+      "﻿id": 852,
+      "Category": "Phrases",
+      "English": "butterfly",
+      "Urhobo": "erhi2  "
+   },
+   {
+      "﻿id": 853,
+      "Category": "Phrases",
+      "English": "tale-bearing",
+      "Urhobo": "érhia (úgbéje)  "
+   },
+   {
+      "﻿id": 854,
+      "Category": "Phrases",
+      "English": "alligator pepper",
+      "Urhobo": "erhié  "
+   },
+   {
+      "﻿id": 855,
+      "Category": "Phrases",
+      "English": "ant",
+      "Urhobo": "erhirhi "
+   },
+   {
+      "﻿id": 856,
+      "Category": "Phrases",
+      "English": "millipede",
+      "Urhobo": "erhívwi  "
+   },
+   {
+      "﻿id": 857,
+      "Category": "Phrases",
+      "English": "hat",
+      "Urhobo": "erhu1  "
+   },
+   {
+      "﻿id": 858,
+      "Category": "Phrases",
+      "English": "barn",
+      "Urhobo": "erhún2  "
+   },
+   {
+      "﻿id": 861,
+      "Category": "Phrases",
+      "English": "port",
+      "Urhobo": "erhuru  "
+   },
+   {
+      "﻿id": 862,
+      "Category": "Phrases",
+      "English": "refuse dump",
+      "Urhobo": "erhurhu  "
+   },
+   {
+      "﻿id": 863,
+      "Category": "Phrases",
+      "English": "beauty",
+      "Urhobo": "érhuvwu  "
+   },
+   {
+      "﻿id": 864,
+      "Category": "Phrases",
+      "English": "six",
+      "Urhobo": "ésan num "
+   },
+   {
+      "﻿id": 865,
+      "Category": "Phrases",
+      "English": "bail",
+      "Urhobo": "esábọ  "
+   },
+   {
+      "﻿id": 866,
+      "Category": "Phrases",
+      "English": "ant sp",
+      "Urhobo": "ésákpa  "
+   },
+   {
+      "﻿id": 867,
+      "Category": "Phrases",
+      "English": "great-great-grandchild",
+      "Urhobo": "esákpógodi  "
+   },
+   {
+      "﻿id": 868,
+      "Category": "Phrases",
+      "English": "reading, calling",
+      "Urhobo": "esé  "
+   },
+   {
+      "﻿id": 869,
+      "Category": "Phrases",
+      "English": "belief, faith",
+      "Urhobo": "esegbúyóta  "
+   },
+   {
+      "﻿id": 870,
+      "Category": "Phrases",
+      "English": "pig",
+      "Urhobo": "esi  "
+   },
+   {
+      "﻿id": 871,
+      "Category": "Phrases",
+      "English": "sow",
+      "Urhobo": "esiáye  "
+   },
+   {
+      "﻿id": 872,
+      "Category": "Phrases",
+      "English": "writing",
+      "Urhobo": "esió  "
+   },
+   {
+      "﻿id": 873,
+      "Category": "Phrases",
+      "English": "reduction",
+      "Urhobo": "esiónó  "
+   },
+   {
+      "﻿id": 874,
+      "Category": "Phrases",
+      "English": "bush pig",
+      "Urhobo": "esirághwá  "
+   },
+   {
+      "﻿id": 875,
+      "Category": "Phrases",
+      "English": "base",
+      "Urhobo": "esiri  "
+   },
+   {
+      "﻿id": 876,
+      "Category": "Phrases",
+      "English": "sack",
+      "Urhobo": "esiso1  "
+   },
+   {
+      "﻿id": 877,
+      "Category": "Phrases",
+      "English": "two hundred Naira (N200)",
+      "Urhobo": "esiso2  "
+   },
+   {
+      "﻿id": 878,
+      "Category": "Phrases",
+      "English": "treatment",
+      "Urhobo": "esivwo1  "
+   },
+   {
+      "﻿id": 879,
+      "Category": "Phrases",
+      "English": "act of struggling for, contesting",
+      "Urhobo": "esivwo2  "
+   },
+   {
+      "﻿id": 880,
+      "Category": "Phrases",
+      "English": "redemption",
+      "Urhobo": "esívwórhọ  "
+   },
+   {
+      "﻿id": 881,
+      "Category": "Phrases",
+      "English": "grey hair",
+      "Urhobo": "esha  "
+   },
+   {
+      "﻿id": 882,
+      "Category": "Phrases",
+      "English": "act of falling",
+      "Urhobo": "éshé1  "
+   },
+   {
+      "﻿id": 883,
+      "Category": "Phrases",
+      "English": "failure",
+      "Urhobo": "eshé2  "
+   },
+   {
+      "﻿id": 884,
+      "Category": "Phrases",
+      "English": "rashes, crawcraw",
+      "Urhobo": "eshẹ  "
+   },
+   {
+      "﻿id": 885,
+      "Category": "Phrases",
+      "English": "devil",
+      "Urhobo": "eshu  "
+   },
+   {
+      "﻿id": 886,
+      "Category": "Phrases",
+      "English": "ward",
+      "Urhobo": "ete  "
+   },
+   {
+      "﻿id": 887,
+      "Category": "Phrases",
+      "English": "plant used locally for making trays and other things",
+      "Urhobo": "éti  "
+   },
+   {
+      "﻿id": 888,
+      "Category": "Phrases",
+      "English": "here",
+      "Urhobo": "etinẹ  "
+   },
+   {
+      "﻿id": 889,
+      "Category": "Phrases",
+      "English": "there",
+      "Urhobo": "etíyi  "
+   },
+   {
+      "﻿id": 890,
+      "Category": "Phrases",
+      "English": "watermelon",
+      "Urhobo": "éto  "
+   },
+   {
+      "﻿id": 891,
+      "Category": "Phrases",
+      "English": "heap",
+      "Urhobo": "etu  "
+   },
+   {
+      "﻿id": 892,
+      "Category": "Phrases",
+      "English": "bargain",
+      "Urhobo": "evé  "
+   },
+   {
+      "﻿id": 893,
+      "Category": "Phrases",
+      "English": "breast",
+      "Urhobo": "evie  "
+   },
+   {
+      "﻿id": 894,
+      "Category": "Phrases",
+      "English": "some",
+      "Urhobo": "evo "
+   },
+   {
+      "﻿id": 895,
+      "Category": "Phrases",
+      "English": "stomach, belly",
+      "Urhobo": "evun1 (úgáva)  "
+   },
+   {
+      "﻿id": 896,
+      "Category": "Phrases",
+      "English": "pregnancy",
+      "Urhobo": "evun2  "
+   },
+   {
+      "﻿id": 897,
+      "Category": "Phrases",
+      "English": "in (side)",
+      "Urhobo": "evun3 prep "
+   },
+   {
+      "﻿id": 898,
+      "Category": "Phrases",
+      "English": "shop/store",
+      "Urhobo": "évun4  "
+   },
+   {
+      "﻿id": 899,
+      "Category": "Phrases",
+      "English": "diarrhoea/dysentery",
+      "Urhobo": "evuétué  "
+   },
+   {
+      "﻿id": 900,
+      "Category": "Phrases",
+      "English": "recognition",
+      "Urhobo": "evúghe  "
+   },
+   {
+      "﻿id": 901,
+      "Category": "Phrases",
+      "English": "act of reaping, harvesting",
+      "Urhobo": "evuó  "
+   },
+   {
+      "﻿id": 902,
+      "Category": "Phrases",
+      "English": "bank",
+      "Urhobo": "évurígho (ibanki)  "
+   },
+   {
+      "﻿id": 903,
+      "Category": "Phrases",
+      "English": "roasting",
+      "Urhobo": "evúvwó  "
+   },
+   {
+      "﻿id": 904,
+      "Category": "Phrases",
+      "English": "dream",
+      "Urhobo": "évwérhẹ  "
+   },
+   {
+      "﻿id": 905,
+      "Category": "Phrases",
+      "English": "birth",
+      "Urhobo": "évwiẹ  "
+   },
+   {
+      "﻿id": 906,
+      "Category": "Phrases",
+      "English": "forgiveness",
+      "Urhobo": "evwóghóvwo  "
+   },
+   {
+      "﻿id": 907,
+      "Category": "Phrases",
+      "English": " coronation",
+      "Urhobo": "evwómuẹ "
+   },
+   {
+      "﻿id": 908,
+      "Category": "Phrases",
+      "English": "bat-like animal",
+      "Urhobo": "evwu  "
+   },
+   {
+      "﻿id": 909,
+      "Category": "Phrases",
+      "English": "somersault",
+      "Urhobo": "evwré  "
+   },
+   {
+      "﻿id": 910,
+      "Category": "Phrases",
+      "English": "dew",
+      "Urhobo": "evwrú  "
+   },
+   {
+      "﻿id": 911,
+      "Category": "Phrases",
+      "English": "bush clearing",
+      "Urhobo": "éwán  "
+   },
+   {
+      "﻿id": 912,
+      "Category": "Phrases",
+      "English": "palm branch with leaves on",
+      "Urhobo": "ewavwe  "
+   },
+   {
+      "﻿id": 913,
+      "Category": "Phrases",
+      "English": "act of passing a thread through the eye of a needle, etc",
+      "Urhobo": "ewé (eghwé) v "
+   },
+   {
+      "﻿id": 914,
+      "Category": "Phrases",
+      "English": "change, transfer",
+      "Urhobo": "ewéne  "
+   },
+   {
+      "﻿id": 915,
+      "Category": "Phrases",
+      "English": "monkey",
+      "Urhobo": "ewéri  "
+   },
+   {
+      "﻿id": 916,
+      "Category": "Phrases",
+      "English": "expresses happiness",
+      "Urhobo": "éwewu "
+   },
+   {
+      "﻿id": 917,
+      "Category": "Phrases",
+      "English": "shirt",
+      "Urhobo": "éwun  "
+   },
+   {
+      "﻿id": 918,
+      "Category": "Phrases",
+      "English": "trousers",
+      "Urhobo": "éwunráwọ  "
+   },
+   {
+      "﻿id": 919,
+      "Category": "Phrases",
+      "English": "guinea grass",
+      "Urhobo": "éyareya  "
+   },
+   {
+      "﻿id": 920,
+      "Category": "Phrases",
+      "English": "dedication",
+      "Urhobo": "ezekẹ  "
+   },
+   {
+      "﻿id": 921,
+      "Category": "Phrases",
+      "English": "nakedness",
+      "Urhobo": "ẹban2  "
+   },
+   {
+      "﻿id": 922,
+      "Category": "Phrases",
+      "English": "rag",
+      "Urhobo": "ẹbamwá  "
+   },
+   {
+      "﻿id": 923,
+      "Category": "Phrases",
+      "English": "leaf",
+      "Urhobo": "ẹbe  "
+   },
+   {
+      "﻿id": 924,
+      "Category": "Phrases",
+      "English": "lip",
+      "Urhobo": "ẹbẹgbunu  "
+   },
+   {
+      "﻿id": 925,
+      "Category": "Phrases",
+      "English": "romance, love-play",
+      "Urhobo": "ẹbẹnẹ  "
+   },
+   {
+      "﻿id": 927,
+      "Category": "Phrases",
+      "English": "piece",
+      "Urhobo": "ẹbẹre2  "
+   },
+   {
+      "﻿id": 929,
+      "Category": "Phrases",
+      "English": "lemon-grass",
+      "Urhobo": "ẹbiriẹ  "
+   },
+   {
+      "﻿id": 930,
+      "Category": "Phrases",
+      "English": "medicine, charm",
+      "Urhobo": "ẹbo  "
+   },
+   {
+      "﻿id": 931,
+      "Category": "Phrases",
+      "English": "construction",
+      "Urhobo": "ẹbó  "
+   },
+   {
+      "﻿id": 932,
+      "Category": "Phrases",
+      "English": "door",
+      "Urhobo": "échẹ  "
+   },
+   {
+      "﻿id": 933,
+      "Category": "Phrases",
+      "English": "act of drinking",
+      "Urhobo": "ẹdá  "
+   },
+   {
+      "﻿id": 934,
+      "Category": "Phrases",
+      "English": "day before traditional market day",
+      "Urhobo": "ẹdebi  "
+   },
+   {
+      "﻿id": 935,
+      "Category": "Phrases",
+      "English": "day",
+      "Urhobo": "ẹdẹ1  "
+   },
+   {
+      "﻿id": 936,
+      "Category": "Phrases",
+      "English": "residence, place",
+      "Urhobo": "ẹdia  "
+   },
+   {
+      "﻿id": 937,
+      "Category": "Phrases",
+      "English": "week",
+      "Urhobo": "ẹdidjana  "
+   },
+   {
+      "﻿id": 938,
+      "Category": "Phrases",
+      "English": "Sunday",
+      "Urhobo": "ẹdidjanarode  "
+   },
+   {
+      "﻿id": 939,
+      "Category": "Phrases",
+      "English": "Saturday",
+      "Urhobo": "ẹdidjanarotete  "
+   },
+   {
+      "﻿id": 940,
+      "Category": "Phrases",
+      "English": "traditional working day",
+      "Urhobo": "ẹdiruo  "
+   },
+   {
+      "﻿id": 941,
+      "Category": "Phrases",
+      "English": "Wednesday",
+      "Urhobo": "ẹdiruorérhá  "
+   },
+   {
+      "﻿id": 942,
+      "Category": "Phrases",
+      "English": "Friday",
+      "Urhobo": "ẹdiruoríyórín  "
+   },
+   {
+      "﻿id": 943,
+      "Category": "Phrases",
+      "English": "leanness",
+      "Urhobo": "ẹdọ  "
+   },
+   {
+      "﻿id": 944,
+      "Category": "Phrases",
+      "English": "traditional day of abstaining from work and some other activities",
+      "Urhobo": "ẹdúhrẹ  "
+   },
+   {
+      "﻿id": 945,
+      "Category": "Phrases",
+      "English": "act of hiding",
+      "Urhobo": "ẹdjávwọ (esióne)  "
+   },
+   {
+      "﻿id": 946,
+      "Category": "Phrases",
+      "English": "masquerade",
+      "Urhobo": "ẹdjọ2  "
+   },
+   {
+      "﻿id": 947,
+      "Category": "Phrases",
+      "English": "shrine",
+      "Urhobo": "ẹdjọ3  "
+   },
+   {
+      "﻿id": 948,
+      "Category": "Phrases",
+      "English": "translation",
+      "Urhobo": "ẹfá1  "
+   },
+   {
+      "﻿id": 949,
+      "Category": "Phrases",
+      "English": "feast held by traditional worshippers",
+      "Urhobo": "ẹfa2 p "
+   },
+   {
+      "﻿id": 950,
+      "Category": "Phrases",
+      "English": "region of the ribs",
+      "Urhobo": "ẹfẹn  "
+   },
+   {
+      "﻿id": 951,
+      "Category": "Phrases",
+      "English": "barren",
+      "Urhobo": "ẹga1  "
+   },
+   {
+      "﻿id": 952,
+      "Category": "Phrases",
+      "English": "service",
+      "Urhobo": "ẹga2  "
+   },
+   {
+      "﻿id": 953,
+      "Category": "Phrases",
+      "English": "act of driving",
+      "Urhobo": "ẹguá1  "
+   },
+   {
+      "﻿id": 954,
+      "Category": "Phrases",
+      "English": "defilement",
+      "Urhobo": "ẹgua2  "
+   },
+   {
+      "﻿id": 955,
+      "Category": "Phrases",
+      "English": "abomination",
+      "Urhobo": "ẹgha1  "
+   },
+   {
+      "﻿id": 956,
+      "Category": "Phrases",
+      "English": "resultant effect of committing a forbidden act",
+      "Urhobo": "ẹgha2  "
+   },
+   {
+      "﻿id": 957,
+      "Category": "Phrases",
+      "English": " act of dividing",
+      "Urhobo": "ẹghárọ v"
+   },
+   {
+      "﻿id": 958,
+      "Category": "Phrases",
+      "English": "castration",
+      "Urhobo": "ẹghwárọ  "
+   },
+   {
+      "﻿id": 959,
+      "Category": "Phrases",
+      "English": "burn",
+      "Urhobo": "ẹghwiẹ2  "
+   },
+   {
+      "﻿id": 960,
+      "Category": "Phrases",
+      "English": "slipperiness",
+      "Urhobo": "ẹghwóriẹ  "
+   },
+   {
+      "﻿id": 961,
+      "Category": "Phrases",
+      "English": "expresses agreement",
+      "Urhobo": "ẹhẹn "
+   },
+   {
+      "﻿id": 962,
+      "Category": "Phrases",
+      "English": "expansion",
+      "Urhobo": "ẹhẹrẹ  "
+   },
+   {
+      "﻿id": 963,
+      "Category": "Phrases",
+      "English": "act of waiting",
+      "Urhobo": "ẹhẹrhẹ v "
+   },
+   {
+      "﻿id": 964,
+      "Category": "Phrases",
+      "English": "nest",
+      "Urhobo": "ẹho  "
+   },
+   {
+      "﻿id": 965,
+      "Category": "Phrases",
+      "English": "October",
+      "Urhobo": "ẹhwé  "
+   },
+   {
+      "﻿id": 966,
+      "Category": "Phrases",
+      "English": "no",
+      "Urhobo": "ẹjo "
+   },
+   {
+      "﻿id": 967,
+      "Category": "Phrases",
+      "English": "remembrance",
+      "Urhobo": "ẹkaruvwiyọ  "
+   },
+   {
+      "﻿id": 968,
+      "Category": "Phrases",
+      "English": "rust",
+      "Urhobo": "ékegba  "
+   },
+   {
+      "﻿id": 969,
+      "Category": "Phrases",
+      "English": "share/portion",
+      "Urhobo": "ékẹ  "
+   },
+   {
+      "﻿id": 970,
+      "Category": "Phrases",
+      "English": "camel",
+      "Urhobo": "ékẹkẹtẹ  "
+   },
+   {
+      "﻿id": 971,
+      "Category": "Phrases",
+      "English": "however",
+      "Urhobo": "ékévuọvo conj "
+   },
+   {
+      "﻿id": 972,
+      "Category": "Phrases",
+      "English": "sourness",
+      "Urhobo": "ẹkiọ  "
+   },
+   {
+      "﻿id": 973,
+      "Category": "Phrases",
+      "English": "group",
+      "Urhobo": "ẹko  "
+   },
+   {
+      "﻿id": 974,
+      "Category": "Phrases",
+      "English": "act of planting",
+      "Urhobo": "ẹkọ v "
+   },
+   {
+      "﻿id": 975,
+      "Category": "Phrases",
+      "English": "act of packing",
+      "Urhobo": "ẹkuá v "
+   },
+   {
+      "﻿id": 976,
+      "Category": "Phrases",
+      "English": "place where palm nut collectors process the nuts",
+      "Urhobo": "ẹkuedi (okedi)  "
+   },
+   {
+      "﻿id": 977,
+      "Category": "Phrases",
+      "English": "fool",
+      "Urhobo": "ẹkpa1  "
+   },
+   {
+      "﻿id": 978,
+      "Category": "Phrases",
+      "English": "unripe",
+      "Urhobo": "ẹkpa2 "
+   },
+   {
+      "﻿id": 979,
+      "Category": "Phrases",
+      "English": "act of lifting",
+      "Urhobo": "ẹkpárọ1 v "
+   },
+   {
+      "﻿id": 980,
+      "Category": "Phrases",
+      "English": "postponement",
+      "Urhobo": "ẹkpárọ2  "
+   },
+   {
+      "﻿id": 981,
+      "Category": "Phrases",
+      "English": "answer/reply",
+      "Urhobo": "ẹkpávwiyo  "
+   },
+   {
+      "﻿id": 982,
+      "Category": "Phrases",
+      "English": "charm for protection against machete attack",
+      "Urhobo": "ẹkpo1  "
+   },
+   {
+      "﻿id": 983,
+      "Category": "Phrases",
+      "English": "act of measuring",
+      "Urhobo": "ẹmá1  "
+   },
+   {
+      "﻿id": 984,
+      "Category": "Phrases",
+      "English": "moulding",
+      "Urhobo": "ẹmá2  "
+   },
+   {
+      "﻿id": 985,
+      "Category": "Phrases",
+      "English": "sweetness",
+      "Urhobo": "ẹmiẹmiẹ  "
+   },
+   {
+      "﻿id": 986,
+      "Category": "Phrases",
+      "English": "act of grinding",
+      "Urhobo": "ẹbi` v "
+   },
+   {
+      "﻿id": 987,
+      "Category": "Phrases",
+      "English": "creeping",
+      "Urhobo": "ẹrán  "
+   },
+   {
+      "﻿id": 988,
+      "Category": "Phrases",
+      "English": "eight",
+      "Urhobo": "ẹréré num "
+   },
+   {
+      "﻿id": 989,
+      "Category": "Phrases",
+      "English": "admission, acceptance",
+      "Urhobo": "ẹreyọ  "
+   },
+   {
+      "﻿id": 990,
+      "Category": "Phrases",
+      "English": "tongue",
+      "Urhobo": "ẹrẹvwe  "
+   },
+   {
+      "﻿id": 991,
+      "Category": "Phrases",
+      "English": "eye",
+      "Urhobo": "ẹro  "
+   },
+   {
+      "﻿id": 992,
+      "Category": "Phrases",
+      "English": "civilisation",
+      "Urhobo": "ẹruérhié  "
+   },
+   {
+      "﻿id": 993,
+      "Category": "Phrases",
+      "English": " hope",
+      "Urhobo": "ẹruévwióvwíyọ "
+   },
+   {
+      "﻿id": 994,
+      "Category": "Phrases",
+      "English": "supervision",
+      "Urhobo": "ẹruévwóte  "
+   },
+   {
+      "﻿id": 995,
+      "Category": "Phrases",
+      "English": "flying",
+      "Urhobo": "ẹrhá1  "
+   },
+   {
+      "﻿id": 996,
+      "Category": "Phrases",
+      "English": "leopard",
+      "Urhobo": "ẹrha2 (akason)  "
+   },
+   {
+      "﻿id": 997,
+      "Category": "Phrases",
+      "English": "swimming",
+      "Urhobo": "ẹrhẹrhẹ  "
+   },
+   {
+      "﻿id": 998,
+      "Category": "Phrases",
+      "English": "dislocation (of a bone in the body)",
+      "Urhobo": "ẹrhóghra  "
+   },
+   {
+      "﻿id": 999,
+      "Category": "Phrases",
+      "English": "leech",
+      "Urhobo": "ẹrhorho  "
+   },
+   {
+      "﻿id": 1000,
+      "Category": "Phrases",
+      "English": "prayer",
+      "Urhobo": "ẹhrovwo  "
+   },
+   {
+      "﻿id": 1001,
+      "Category": "Phrases",
+      "English": "act of shooting",
+      "Urhobo": "ẹsá v "
+   },
+   {
+      "﻿id": 1002,
+      "Category": "Phrases",
+      "English": "selection",
+      "Urhobo": "ẹsánọ  "
+   },
+   {
+      "﻿id": 1003,
+      "Category": "Phrases",
+      "English": "act of recovering what is used as collateral security",
+      "Urhobo": "ẹtá v "
+   },
+   {
+      "﻿id": 1004,
+      "Category": "Phrases",
+      "English": "pool of water",
+      "Urhobo": "ẹtẹrhe  "
+   },
+   {
+      "﻿id": 1005,
+      "Category": "Phrases",
+      "English": "hair",
+      "Urhobo": "ẹto  "
+   },
+   {
+      "﻿id": 1006,
+      "Category": "Phrases",
+      "English": "beard",
+      "Urhobo": "ẹtoégba  "
+   },
+   {
+      "﻿id": 1007,
+      "Category": "Phrases",
+      "English": "act of burning",
+      "Urhobo": "ẹtórhẹ v "
+   },
+   {
+      "﻿id": 1008,
+      "Category": "Phrases",
+      "English": "female pubic hair",
+      "Urhobo": "ẹtuohoro  "
+   },
+   {
+      "﻿id": 1009,
+      "Category": "Phrases",
+      "English": "male pubic hair",
+      "Urhobo": "ẹtuoshọ  "
+   },
+   {
+      "﻿id": 1010,
+      "Category": "Phrases",
+      "English": "alligator",
+      "Urhobo": "ẹva1 (ọrhón)  "
+   },
+   {
+      "﻿id": 1011,
+      "Category": "Phrases",
+      "English": "butchery",
+      "Urhobo": "ẹvá2  "
+   },
+   {
+      "﻿id": 1012,
+      "Category": "Phrases",
+      "English": "act of belching",
+      "Urhobo": "ẹvẹ2 v "
+   },
+   {
+      "﻿id": 1013,
+      "Category": "Phrases",
+      "English": "repetition",
+      "Urhobo": "ẹvwáriẹ  "
+   },
+   {
+      "﻿id": 1014,
+      "Category": "Phrases",
+      "English": "act of wrapping",
+      "Urhobo": "ẹvwárọ v "
+   },
+   {
+      "﻿id": 1015,
+      "Category": "Phrases",
+      "English": "goat",
+      "Urhobo": "ẹvwé  "
+   },
+   {
+      "﻿id": 1016,
+      "Category": "Phrases",
+      "English": "kola nut",
+      "Urhobo": "ẹvwe2  "
+   },
+   {
+      "﻿id": 1017,
+      "Category": "Phrases",
+      "English": "she (nanny) goat",
+      "Urhobo": "ẹvwiáye  "
+   },
+   {
+      "﻿id": 1018,
+      "Category": "Phrases",
+      "English": "fading",
+      "Urhobo": "ẹvwóriẹ1  "
+   },
+   {
+      "﻿id": 1019,
+      "Category": "Phrases",
+      "English": "pass",
+      "Urhobo": "ẹwá2  "
+   },
+   {
+      "﻿id": 1020,
+      "Category": "Phrases",
+      "English": "act of drying",
+      "Urhobo": "ẹyá  "
+   },
+   {
+      "﻿id": 1021,
+      "Category": "Phrases",
+      "English": "bitterness",
+      "Urhobo": "ẹyarọ1  "
+   },
+   {
+      "﻿id": 1022,
+      "Category": "Phrases",
+      "English": "act of begging",
+      "Urhobo": "ẹyarọ2  "
+   },
+   {
+      "﻿id": 1023,
+      "Category": "Phrases",
+      "English": "May",
+      "Urhobo": "ẹyeórin  "
+   },
+   {
+      "﻿id": 1024,
+      "Category": "Phrases",
+      "English": "translate",
+      "Urhobo": "fá1  "
+   },
+   {
+      "﻿id": 1025,
+      "Category": "Phrases",
+      "English": "confess",
+      "Urhobo": "fa2  "
+   },
+   {
+      "﻿id": 1026,
+      "Category": "Phrases",
+      "English": "cane/whip",
+      "Urhobo": "fá3  "
+   },
+   {
+      "﻿id": 1027,
+      "Category": "Phrases",
+      "English": "transport",
+      "Urhobo": "fán4  "
+   },
+   {
+      "﻿id": 1028,
+      "Category": "Phrases",
+      "English": "be rich",
+      "Urhobo": "fe  "
+   },
+   {
+      "﻿id": 1029,
+      "Category": "Phrases",
+      "English": "empty",
+      "Urhobo": "fefe "
+   },
+   {
+      "﻿id": 1030,
+      "Category": "Phrases",
+      "English": "differ, differentiate",
+      "Urhobo": "fẹnẹ  "
+   },
+   {
+      "﻿id": 1031,
+      "Category": "Phrases",
+      "English": "leak",
+      "Urhobo": "fi  "
+   },
+   {
+      "﻿id": 1032,
+      "Category": "Phrases",
+      "English": "split",
+      "Urhobo": "fiá  "
+   },
+   {
+      "﻿id": 1033,
+      "Category": "Phrases",
+      "English": "hiss",
+      "Urhobo": "fiunu  "
+   },
+   {
+      "﻿id": 1034,
+      "Category": "Phrases",
+      "English": "you may return soon (farewell)",
+      "Urhobo": "fobọrhe exp "
+   },
+   {
+      "﻿id": 1035,
+      "Category": "Phrases",
+      "English": "clean",
+      "Urhobo": "fon "
+   },
+   {
+      "﻿id": 1036,
+      "Category": "Phrases",
+      "English": "necessary",
+      "Urhobo": "fori "
+   },
+   {
+      "﻿id": 1037,
+      "Category": "Phrases",
+      "English": "silence",
+      "Urhobo": "fọ (fotoyi)  "
+   },
+   {
+      "﻿id": 1038,
+      "Category": "Phrases",
+      "English": "wash (clothes)",
+      "Urhobo": "fọrhọ1  "
+   },
+   {
+      "﻿id": 1039,
+      "Category": "Phrases",
+      "English": "extract liquid from leaves through squeezing",
+      "Urhobo": "fọrhọ2  "
+   },
+   {
+      "﻿id": 1040,
+      "Category": "Phrases",
+      "English": "quench",
+      "Urhobo": "fu  "
+   },
+   {
+      "﻿id": 1041,
+      "Category": "Phrases",
+      "English": "quiet",
+      "Urhobo": "fuefú "
+   },
+   {
+      "﻿id": 1042,
+      "Category": "Phrases",
+      "English": "juggle",
+      "Urhobo": "fré  "
+   },
+   {
+      "﻿id": 1043,
+      "Category": "Phrases",
+      "English": "snatch",
+      "Urhobo": "fru  "
+   },
+   {
+      "﻿id": 1044,
+      "Category": "Phrases",
+      "English": "serve",
+      "Urhobo": "ga1  "
+   },
+   {
+      "﻿id": 1045,
+      "Category": "Phrases",
+      "English": "hold baby in squatting position to ease its defecation and urination",
+      "Urhobo": "ga2  "
+   },
+   {
+      "﻿id": 1046,
+      "Category": "Phrases",
+      "English": "firmly, well",
+      "Urhobo": "gagán (gan)  "
+   },
+   {
+      "﻿id": 1047,
+      "Category": "Phrases",
+      "English": "very high",
+      "Urhobo": "gegerege id "
+   },
+   {
+      "﻿id": 1048,
+      "Category": "Phrases",
+      "English": "eager, impatient",
+      "Urhobo": "gidigidi1 id "
+   },
+   {
+      "﻿id": 1049,
+      "Category": "Phrases",
+      "English": "describes state of flame or heat",
+      "Urhobo": "gidigidi2 id "
+   },
+   {
+      "﻿id": 1050,
+      "Category": "Phrases",
+      "English": "stout, massive",
+      "Urhobo": "gidigba id "
+   },
+   {
+      "﻿id": 1051,
+      "Category": "Phrases",
+      "English": "very tall/high",
+      "Urhobo": "gogorogo id "
+   },
+   {
+      "﻿id": 1052,
+      "Category": "Phrases",
+      "English": "worship",
+      "Urhobo": "gọ  "
+   },
+   {
+      "﻿id": 1053,
+      "Category": "Phrases",
+      "English": "judge",
+      "Urhobo": "gu  "
+   },
+   {
+      "﻿id": 1054,
+      "Category": "Phrases",
+      "English": "drive",
+      "Urhobo": "gua (djẹ)  "
+   },
+   {
+      "﻿id": 1055,
+      "Category": "Phrases",
+      "English": "frighten",
+      "Urhobo": "gué (guegue)  "
+   },
+   {
+      "﻿id": 1056,
+      "Category": "Phrases",
+      "English": "bent",
+      "Urhobo": "gugunu "
+   },
+   {
+      "﻿id": 1057,
+      "Category": "Phrases",
+      "English": "dissolve",
+      "Urhobo": "guọ  "
+   },
+   {
+      "﻿id": 1058,
+      "Category": "Phrases",
+      "English": "destroy",
+      "Urhobo": "guọghọ  "
+   },
+   {
+      "﻿id": 1059,
+      "Category": "Phrases",
+      "English": "weak, sluggish",
+      "Urhobo": "guoguo "
+   },
+   {
+      "﻿id": 1060,
+      "Category": "Phrases",
+      "English": "find, look for",
+      "Urhobo": "guọnọ1  "
+   },
+   {
+      "﻿id": 1061,
+      "Category": "Phrases",
+      "English": "want, love",
+      "Urhobo": "guọnọ2  "
    }
 ]
