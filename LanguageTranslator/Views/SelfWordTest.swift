@@ -47,22 +47,29 @@ struct WordTest: View {
                         
                         
                     }
+                    Spacer()
                     
                     if getCatListToggle {
-                    List(dictionaryData.dictionaryData.shuffled().prefix(upTo: 3),id: \.id) { data in
+                    List(dictionaryData.dictionaryData.shuffled().prefix(upTo: 1),id: \.id) { data in
                        
-                        Text("\(data.English)")
+                        VStack(alignment: .leading) {
+                        Text("English:  \(data.English)")
+                            .foregroundColor(Color.red)
+                        Text("Urhobo:   \(data.Urhobo.trimmingCharacters(in: .decomposables))")
+                            .foregroundColor(Color.blue)
                         
-                    }
+                        }.padding()
+                    }//End of List
+                       
                     
-                    }
+                    }//End if If Statement
             
                 
-                //Spacer()
             
-
+                
+            
             }//VStack Ending
-            
+            .navigationBarTitle(Text("Learning"))
         
         
         

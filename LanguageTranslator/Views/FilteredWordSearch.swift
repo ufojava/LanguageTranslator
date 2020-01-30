@@ -39,6 +39,7 @@ struct WordSearch: View {
                             .foregroundColor(Color.blue)
                         
                     }//List End
+                    .id(UUID())
                 
                 }//Section End
             

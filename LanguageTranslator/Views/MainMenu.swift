@@ -118,7 +118,7 @@ struct Menu: View {
                                 .foregroundColor(Color.green)
                             
                             //Icon Legend
-                            Text("Test Yourself      ")
+                            Text("Learning               ")
                                 .foregroundColor(Color.black)
                                 .fontWeight(.bold)
                             
