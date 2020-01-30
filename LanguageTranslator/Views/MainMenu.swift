@@ -110,19 +110,24 @@ struct Menu: View {
                 if showTestYourSelf {
                     
                     //Enter Navigation Link Here
+                    NavigationLink(destination: WordTest()) {
+                        
+                        HStack {
+                            
+                            MenuIcons(icon: "gamecontroller")
+                                .foregroundColor(Color.green)
+                            
+                            //Icon Legend
+                            Text("Test Yourself      ")
+                                .foregroundColor(Color.black)
+                                .fontWeight(.bold)
+                            
+                        }//End of HStack
+                        
+                    }//End Navigation Link
                     
-                    HStack {
-                        
-                        MenuIcons(icon: "gamecontroller")
-                            .foregroundColor(Color.green)
-                        
-                        //Icon Legend
-                        Text("Test Yourself      ")
-                            .foregroundColor(Color.black)
-                            .fontWeight(.bold)
-                        
-                    }//End of HStack
-                }
+                    
+                }//End ShowTest
                 
                 
                 

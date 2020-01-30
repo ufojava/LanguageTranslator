@@ -14,100 +14,55 @@ struct WordTest: View {
     //Get Data
     @ObservedObject var dictionaryData = DataLoader()
     
-    var categoryArray = ["Anatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
+  
     
-    @State private var selectedCategory = 0
     
-    //Declare selection difficulty
-    @State private var selectionDifficulty = ""
-    
-    func processDifficulty(inCatSelection: String) -> String {
-        
-        var difficulty = ""
-        
-        switch inCatSelection {
-            
-        case "Anatomy":
-            difficulty = "Easy"
-            
-        case "Currency":
-            difficulty = "Medium"
-            
-        case "Fruits":
-            difficulty = "Easy"
-            
-        case "Numeracy":
-            difficulty = "Medium"
-            
-        case "Phrases":
-            difficulty = "Difficult"
-            
-        case "Profession":
-            difficulty = "Medium"
-        
-        case "Relationship":
-            difficulty = "Medium"
-        
-        case "Religion":
-            difficulty = "Medium"
-            
-        default:
-            difficulty = "Easy"
-            
-        }
-        
-        return difficulty
-        
-    }
-    
+    //Get shuffled list
+    @State private var getCatListToggle = false
     
     
     
     var body: some View {
-        
-        NavigationView {
+
         
         VStack {
+                
+                
             
-            Form {
-                
-                Section(header: Text("Selection").bold()) {
-                
-                Picker(selection: $selectedCategory, label: Text("Select Category")) {
-                    
-                    ForEach(0..<8) {
+            
+            
+                    Button(action: {
                         
-                        Text(self.categoryArray[$0])
+                        self.getCatListToggle.toggle()
+                        
+                        
+                    }) {
+                        
+                        
+                        Text("Shuffle")
+                            .padding()
+                            .background(Color.blue)
+                            .foregroundColor(Color.white)
+                            .cornerRadius(6)
+                        
                         
                     }
                     
+                    if getCatListToggle {
+                    List(dictionaryData.dictionaryData.shuffled().prefix(upTo: 3),id: \.id) { data in
+                       
+                        Text("\(data.English)")
+                        
+                    }
                     
-                    
-                }//Picker End
+                    }
             
-                    
-                }//Section End
                 
-                
-                Section(header: Text("Selection Difficulty").bold()) {
-                    
-                    Text("\(processDifficulty(inCatSelection: categoryArray[selectedCategory]))")
-                    
-                    
-                    
-                    
-                }
-                
-                
-            }
+                //Spacer()
+            
 
-            }
-        }
-        
-        
-        
-        
-        
+            }//VStack Ending
+            
         
         
         

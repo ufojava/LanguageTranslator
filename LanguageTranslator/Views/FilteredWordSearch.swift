@@ -32,7 +32,7 @@ struct WordSearch: View {
         
                     TextField("Enter Word",text: $englishWord)
                     
-                    List(dictionaryData.dictionaryData.filter {$0.English.contains(self.englishWord)},id: \.id) { word in
+                    List(dictionaryData.dictionaryData.filter {$0.English.contains(self.englishWord) || $0.English.contains(self.englishWord.lowercased()) },id: \.id) { word in
                         
                         Text("\(word.English) - ")
                         Text("Means: \(word.Urhobo)")
