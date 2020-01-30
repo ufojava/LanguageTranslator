@@ -60,9 +60,9 @@ struct Menu: View {
                                 .foregroundColor(Color.gray)
                             
                             //Icon Legend
-                            Text("Dictionary              ")
+                            Text(" Dictionary             ")
                                 .foregroundColor(Color.black)
-                                .fontWeight(.bold)
+                            
                         
                         
                         
@@ -90,7 +90,7 @@ struct Menu: View {
                        Text("Category Search")
                            .foregroundColor(Color.black)
                         
-                           .fontWeight(.bold)
+                        
                        
                    }//End of HStack
                     
@@ -120,7 +120,7 @@ struct Menu: View {
                             //Icon Legend
                             Text("Learning               ")
                                 .foregroundColor(Color.black)
-                                .fontWeight(.bold)
+                               
                             
                         }//End of HStack
                         
@@ -140,12 +140,13 @@ struct Menu: View {
                     HStack {
                             MenuIcons(icon: "folder")
                                 .foregroundColor(Color.yellow)
-                            
+                          
+                     
                             //Icon Legend
-                            Text("DB Information ")
+                            Text("DB Information   ")
                                 .foregroundColor(Color.black)
-                                .fontWeight(.bold)
                         
+                    
                     }
                             
                 }//End of Navigation Link

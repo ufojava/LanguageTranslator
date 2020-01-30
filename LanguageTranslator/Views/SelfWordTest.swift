@@ -13,12 +13,15 @@ struct WordTest: View {
 
     //Get Data
     @ObservedObject var dictionaryData = DataLoader()
+    @State private var urhoboWord = ""
+ 
     
   
     
     
     //Get shuffled list
     @State private var getCatListToggle = false
+    @State private var getTestWordToggle = false
     
     
     
@@ -29,25 +32,32 @@ struct WordTest: View {
                 
                 
             
+            Form {
             
+                
+                Section(header: Text("Get new word").bold()) {
             
                     Button(action: {
                         
+                       
+                        
                         self.getCatListToggle.toggle()
-                        
-                        
+                       
                     }) {
                         
                         
-                        Text("Shuffle")
+                        Text("  Shuffle  ")
                             .padding()
                             .background(Color.blue)
                             .foregroundColor(Color.white)
                             .cornerRadius(6)
+                            .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)
                         
                         
-                    }
+                        }
+                    
                 Spacer()
+                    
             
          
                     if getCatListToggle {
@@ -67,13 +77,56 @@ struct WordTest: View {
                     }//End if If Statement
             
                     
+                }//End of Section
+                
+                
+                Section(header: Text("Click Hide Word and Now try youself").bold()) {
                     
-                
+                    
+                    Button(action: {
+                        
+                        self.getCatListToggle.toggle()
+                        self.getTestWordToggle.toggle()
+                        
+                        
+                    }) {
+                        
+                        
+                        Text("Hide Word")
+                            .padding()
+                            .background(Color.blue)
+                            .foregroundColor(Color.white)
+                        .cornerRadius(6)
+                            .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0,  maxHeight: .infinity, alignment: .center)
+                        
+                        
+                    }
+                    
+                   
+                    
+                    TextField("Urhobo Word",text: $urhoboWord)
+                    
+                    
+                    
+                    Spacer()
+                    
+                    List(dictionaryData.dictionaryData.filter {$0.Urhobo.contains(self.urhoboWord) || $0.Urhobo.contains(self.urhoboWord.lowercased()) },id: \.id) { word in
+                        
+                        Text("\(word.English)")
             
+                            .foregroundColor(Color.blue)
+                        
+                    }//List End
+                    .id(UUID())
+                    
+                    
+                }
                 
+            }//End of form
+            
             
             }//VStack Ending
-            .navigationBarTitle(Text("Learning"))
+            .navigationBarTitle(Text("Learning 📕"))
         
         
         

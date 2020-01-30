@@ -78,7 +78,7 @@ struct ListDictionary: View {
           //NavigationView {
               
               VStack {
-                Section(header: Text("----------------------------------").bold()) {
+                Section {
                     
                     HStack {
                    

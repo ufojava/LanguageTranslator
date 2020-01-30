@@ -34,6 +34,7 @@ struct ContentView: View {
                     
                     
                 }//End of VStack
+               
             
             .navigationBarTitle(Text("Language🗣"))
         
