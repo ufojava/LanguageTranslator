@@ -47,8 +47,9 @@ struct WordTest: View {
                         
                         
                     }
-                    Spacer()
-                    
+                Spacer()
+            
+         
                     if getCatListToggle {
                     List(dictionaryData.dictionaryData.shuffled().prefix(upTo: 1),id: \.id) { data in
                        
@@ -58,12 +59,15 @@ struct WordTest: View {
                         Text("Urhobo:   \(data.Urhobo.trimmingCharacters(in: .decomposables))")
                             .foregroundColor(Color.blue)
                         
-                        }.padding()
+                        }//.padding()
+                        Spacer().frame(height:10)
                     }//End of List
                        
                     
                     }//End if If Statement
             
+                    
+                    
                 
             
                 
