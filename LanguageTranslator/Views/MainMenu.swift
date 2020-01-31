@@ -36,10 +36,10 @@ struct Menu: View {
                 
                
                 if showFrontImage {
-                    Image("front_image")
+                    Image("FrontImageV3")
                         .resizable()
                         .scaledToFill()
-                        .frame(width:200, height: 80)
+                        .frame(width:150, height: 120)
                         .transition(.scale)
                     
                         
@@ -61,7 +61,7 @@ struct Menu: View {
                             
                             //Icon Legend
                             Text(" Dictionary             ")
-                                .foregroundColor(Color.black)
+                                .foregroundColor(Color.white)
                             
                         
                         
@@ -88,7 +88,7 @@ struct Menu: View {
                        
                        //Icon Legend
                        Text("Category Search")
-                           .foregroundColor(Color.black)
+                           .foregroundColor(Color.white)
                         
                         
                        
@@ -119,7 +119,7 @@ struct Menu: View {
                             
                             //Icon Legend
                             Text("Learning               ")
-                                .foregroundColor(Color.black)
+                                .foregroundColor(Color.white)
                                
                             
                         }//End of HStack
@@ -144,7 +144,7 @@ struct Menu: View {
                      
                             //Icon Legend
                             Text("DB Information   ")
-                                .foregroundColor(Color.black)
+                                .foregroundColor(Color.white)
                         
                     
                     }
@@ -167,7 +167,7 @@ struct Menu: View {
                 
                 //Main Menu Icon
                 Text("Menu ")
-                    .foregroundColor(Color.black).fontWeight(.bold)
+                    .foregroundColor(Color.white).fontWeight(.bold)
         
                 Image(systemName: "circle")
                     .resizable()

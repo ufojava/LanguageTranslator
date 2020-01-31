@@ -10,21 +10,36 @@ import SwiftUI
 
 struct ContentView: View {
     
+    /*
+    init() {
+        
+        UINavigationBar.appearance().
+        
+        
+    }
+    */
  
     var body: some View {
         
         NavigationView {
-        
+            ZStack {
+            
+            Color.black.edgesIgnoringSafeArea(.all)
+            
+            
+            
             VStack {
                     
                     ZStack(alignment: .bottom) {
                         
-                    
+                        
+                
                             
                         //Insert Applcation Background
-                        Image("UrhoboBkGrd_Green")
+                        Image("UrhoboBkGrd_GreenVBlack")
                         .resizable()
                         .scaledToFill()
+                        .edgesIgnoringSafeArea(.all)
                             
                         
                         //Call Menu
@@ -36,8 +51,11 @@ struct ContentView: View {
                 }//End of VStack
                
             
-            .navigationBarTitle(Text("Language🗣"))
+                
         
+        }
+            .navigationBarTitle(Text("Language🗣"))
+            
         }
         
     }
