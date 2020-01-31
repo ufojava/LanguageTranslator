@@ -21,6 +21,7 @@
 		0339B0A123DCC98F000CBB0D /* FilteredDictionaryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */; };
 		0339B0A323DDFAA5000CBB0D /* FilteredWordSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */; };
 		0339B0A923E0E233000CBB0D /* SelfWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0A823E0E233000CBB0D /* SelfWordTest.swift */; };
+		0339B0AB23E39F96000CBB0D /* PlaySound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0339B0AA23E39F95000CBB0D /* PlaySound.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		0339B0A023DCC98F000CBB0D /* FilteredDictionaryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredDictionaryList.swift; sourceTree = "<group>"; };
 		0339B0A223DDFAA5000CBB0D /* FilteredWordSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredWordSearch.swift; sourceTree = "<group>"; };
 		0339B0A823E0E233000CBB0D /* SelfWordTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfWordTest.swift; sourceTree = "<group>"; };
+		0339B0AA23E39F95000CBB0D /* PlaySound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySound.swift; sourceTree = "<group>"; };
+		0339B0AC23E3A3C7000CBB0D /* shuffled.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = shuffled.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,7 @@
 		0339B07223DA1E4C000CBB0D /* LanguageTranslator */ = {
 			isa = PBXGroup;
 			children = (
+				0339B0AC23E3A3C7000CBB0D /* shuffled.m4a */,
 				0339B09B23DBCB88000CBB0D /* Views */,
 				0339B09523DB8F6D000CBB0D /* DictionaryData.json */,
 				0339B08B23DA4AFB000CBB0D /* Model */,
@@ -99,6 +103,7 @@
 			children = (
 				0339B08C23DA4B5B000CBB0D /* Dictionary.swift */,
 				0339B09323DB7B7E000CBB0D /* DataLoader.swift */,
+				0339B0AA23E39F95000CBB0D /* PlaySound.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -191,6 +196,7 @@
 				0339B0A923E0E233000CBB0D /* SelfWordTest.swift in Sources */,
 				0339B07423DA1E4C000CBB0D /* AppDelegate.swift in Sources */,
 				0339B09D23DBCBB2000CBB0D /* ListDictionary.swift in Sources */,
+				0339B0AB23E39F96000CBB0D /* PlaySound.swift in Sources */,
 				0339B09F23DC5E08000CBB0D /* MainMenu.swift in Sources */,
 				0339B08D23DA4B5B000CBB0D /* Dictionary.swift in Sources */,
 				0339B0A323DDFAA5000CBB0D /* FilteredWordSearch.swift in Sources */,
@@ -334,6 +340,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"LanguageTranslator/Preview Content\"";
+				DEVELOPMENT_TEAM = FUA8MUZTUH;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = LanguageTranslator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -353,6 +360,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"LanguageTranslator/Preview Content\"";
+				DEVELOPMENT_TEAM = FUA8MUZTUH;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = LanguageTranslator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

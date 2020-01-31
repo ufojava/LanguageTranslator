@@ -39,10 +39,17 @@ struct WordTest: View {
             
                     Button(action: {
                         
-                       
+                      
                         
                         self.getCatListToggle.toggle()
-                       
+                        readRandomEnglishWord(word: "Word shuffled")
+                        
+                        //Reset Urhobo Text filed
+                        self.urhoboWord = ""
+                        
+                     
+                        
+                        
                     }) {
                         
                         
@@ -52,9 +59,11 @@ struct WordTest: View {
                             .foregroundColor(Color.white)
                             .cornerRadius(6)
                             .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)
+                            
                         
                         
                         }
+                    
                     
                 Spacer()
                     
@@ -87,6 +96,9 @@ struct WordTest: View {
                         
                         self.getCatListToggle.toggle()
                         self.getTestWordToggle.toggle()
+                        
+                        readRandomEnglishWord(word: "Learning Word Hidden")
+                        
                         
                         
                     }) {
