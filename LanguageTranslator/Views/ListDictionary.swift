@@ -15,7 +15,7 @@ struct ListDictionary: View {
     @ObservedObject var dictionaryData = DataLoader()
     
     //Category Array
-    @State private var categoryArray = ["Anatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
+    @State private var categoryArray = ["Anatomy","Currency","Food","Numeracy","Phrases","Profession","Relationship","Religion"]
     
     //Variables to link to Word & Category Search
     //@State private var getCategorySearchToggle = false

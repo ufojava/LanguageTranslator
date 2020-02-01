@@ -8,24 +8,34 @@
 
 import SwiftUI
 
+
 struct ContentView: View {
     
-    /*
+    
+/*
+
     init() {
-        
-        UINavigationBar.appearance().
-        
-        
+                  
+        UINavigationBar.appearance().backgroundColor = .black
+                  
+                  
     }
-    */
+        
+  */
  
     var body: some View {
         
         NavigationView {
+            
+          
+            
+           
+            
             ZStack {
             
             Color.black.edgesIgnoringSafeArea(.all)
-            
+           
+                  
             
             
             VStack {
@@ -39,6 +49,7 @@ struct ContentView: View {
                         Image("UrhoboBkGrd_GreenVBlack")
                         .resizable()
                         .scaledToFill()
+                            .padding()
                         .edgesIgnoringSafeArea(.all)
                             
                         
@@ -54,9 +65,16 @@ struct ContentView: View {
                 
         
         }
-            .navigationBarTitle(Text("Language🗣"))
+            .navigationBarTitle(Text("🇳🇬 🗣").font(.system(size: 25)))
+           
             
+            /*
+            Title bar Tetx color is not working
+            This is causing issues when displaying in normal mode
+ 
+             */
         }
+        
         
     }
 }

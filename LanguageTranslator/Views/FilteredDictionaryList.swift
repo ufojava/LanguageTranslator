@@ -20,7 +20,7 @@ struct FilteredDictionary: View {
     @State var showDetails = false
     
     //Variable for Picker
-    var selectCategory = ["Anatomy","Currency","Fruits","Numeracy","Phrases","Profession","Relationship","Religion"]
+    var selectCategory = ["Anatomy","Currency","Food","Numeracy","Phrases","Profession","Relationship","Religion"]
     @State private var selectedCategory = 0
     
     //Image Name Variable
